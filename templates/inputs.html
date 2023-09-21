@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+   <body>
+     
+      <form action = "http://localhost:5000/status" method = "POST">
+         <p>Start Date  <input type = "number" name = "startDateYear" value = '2023'> <input type = "number" name = "startDateMonth" value = '09'> <input type = "number" name = "startDateDay" value = '20'> <input type = "number" name = "startDateHour" value = '6'></p>
+         <p>End Date  <input type = "number" name = "endDateYear" value = '2023'> <input type = "number" name = "endDateMonth" value = '09'> <input type = "number" name = "endDateDay" value = '21'> <input type = "number" name = "endDateHour" value = '16'></p>
+         <p>Start With Load (Leave Blank if False) <input type = "text" name = "startWithLoad" value = 'True' /></p>
+         <p>Start Load City  <input type = "text" name = "startLoadCity" value = 'Chattanooga, TN' /></p>
+         <p>Exclude Loads (Leave Blank if False) <input type = "text" name = "excludeLoads" value = '' /></p>
+         <p>Can You Deliver Next Day (Leave Blank if False) <input type ="text" name = "canDeliverNextDay" value = 'True' /></p>
+         <p>Load Time  <input type ="number" name = "loadTime" value = 2 /></p>
+         <p>Unload Time  <input type ="number" name = "unloadTime" value = 1 /></p>
+         <p>Average Speed  <input type ="number" name = "avgSpeed" value = 56 /></p>
+         <p>Start Coordinates  <input type = "number" name = "startCoordsLat" value = '33.412402'> <input type = "number" name = "startCoordsLong" value = '-86.843263' ></p>
+         <p>Start Day City  <input type = "text" name = "startDayCity" value = 'Hoover, AL' /></p>
+         <p>End Coordinates  <input type = "number" name = "endCoordsLat" value = '33.412402'> <input type = "number" name = "endCoordsLong" value = '-86.843263' ></p>
+         <p>End Day City  <input type = "text" name = "endDayCity" value = 'Hoover, AL' /></p>
+         <p>Loaded MPG  <input type ="number" name = "MPG_load" value = 6.5 /></p>
+         <p>Empty MPG  <input type ="number" name = "MPG_empty" value = 8.5 /></p>
+         <p>Fuel Price  <input type ="number" name = "diesel" value = 3.85 /></p>
+         <p>Maintenance Cost Per Mile  <input type ="number" name = "maintCostPerMile" value = 0.18 /></p>
+         <p><input type = "submit" value = "submit" /></p>
+      </form>
+   </body>
+</html>

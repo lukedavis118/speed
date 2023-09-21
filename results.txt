@@ -1,0 +1,1037 @@
+
+*******************************************************************
+Viewing itinerary for Trip #1 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+09:06 AM  -  Lagrange, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 704.0
+ Total Rate:     $ 900.0
+ Distance:         283.0 miles
+ Net Rate/Hour:  $ 78.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #2 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+01:13 PM  -  Woodstock, AL  -  Arrive at Origin & Load
+03:13 PM  -  Woodstock, AL  -  Drive Load to Destination
+03:43 PM  -  Hoover, AL  -  Done for Day, with Load
+10:28 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 608.0
+ Total Rate:     $ 900.0
+ Distance:         412.0 miles
+ Net Rate/Hour:  $ 54.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #3 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:57 AM  -  Decatur, AL  -  Arrive at Origin & Load
+01:57 PM  -  Decatur, AL  -  Drive Load to Destination
+03:41 PM  -  Hoover, AL  -  Done for Day, with Load
+10:10 AM  -  Tucker, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 562.0
+ Total Rate:     $ 850.0
+ Distance:         394.0 miles
+ Net Rate/Hour:  $ 51.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #4 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:23 AM  -  Jackson, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 548.0
+ Total Rate:     $ 800.0
+ Distance:         355.0 miles
+ Net Rate/Hour:  $ 53.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #5 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:34 AM  -  Covington, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 540.0
+ Total Rate:     $ 800.0
+ Distance:         365.0 miles
+ Net Rate/Hour:  $ 51.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #6 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:57 AM  -  Macon, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 474.0
+ Total Rate:     $ 750.0
+ Distance:         386.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #7 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Hanceville, AL  -  Arrive at Origin & Load
+02:02 PM  -  Hanceville, AL  -  Drive Load to Destination
+02:53 PM  -  Hoover, AL  -  Done for Day, with Load
+09:58 AM  -  Morrow, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 456.0
+ Total Rate:     $ 700.0
+ Distance:         338.0 miles
+ Net Rate/Hour:  $ 46.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #8 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:54 PM  -  Hoover, AL  -  Done for Day, with Load
+10:27 AM  -  McMinnville, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 455.0
+ Total Rate:     $ 725.0
+ Distance:         366.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #9 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Hanceville, AL  -  Arrive at Origin & Load
+02:02 PM  -  Hanceville, AL  -  Drive Load to Destination
+02:53 PM  -  Hoover, AL  -  Done for Day, with Load
+10:16 AM  -  Duluth, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 443.0
+ Total Rate:     $ 700.0
+ Distance:         355.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #10 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Hanceville, AL  -  Arrive at Origin & Load
+02:02 PM  -  Hanceville, AL  -  Drive Load to Destination
+02:57 PM  -  Hoover, AL  -  Done for Day, with Load
+10:16 AM  -  Waynesboro, MS  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 440.0
+ Total Rate:     $ 700.0
+ Distance:         358.0 miles
+ Net Rate/Hour:  $ 42.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #11 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:23 AM  -  Boaz, AL  -  Arrive at Origin & Load
+01:23 PM  -  Boaz, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:31 AM  -  Ashburn, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 425.0
+ Total Rate:     $ 736.0
+ Distance:         418.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #12 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:31 AM  -  Westmoreland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 425.0
+ Total Rate:     $ 736.0
+ Distance:         418.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #13 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+10:50 AM  -  Scottsboro, AL  -  Arrive at Origin & Load
+12:50 PM  -  Scottsboro, AL  -  Drive Load to Destination
+02:58 PM  -  Hoover, AL  -  Done for Day, with Load
+10:28 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 422.0
+ Total Rate:     $ 700.0
+ Distance:         370.0 miles
+ Net Rate/Hour:  $ 40.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #14 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:23 AM  -  Boaz, AL  -  Arrive at Origin & Load
+01:23 PM  -  Boaz, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:29 AM  -  Ashburn, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 416.0
+ Total Rate:     $ 725.0
+ Distance:         416.0 miles
+ Net Rate/Hour:  $ 36.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #15 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:57 AM  -  Decatur, AL  -  Arrive at Origin & Load
+01:57 PM  -  Decatur, AL  -  Drive Load to Destination
+03:41 PM  -  Hoover, AL  -  Done for Day, with Load
+10:11 AM  -  Alpharetta, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 412.0
+ Total Rate:     $ 700.0
+ Distance:         395.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #16 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+11:20 AM  -  Greensboro, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 407.0
+ Total Rate:     $ 700.0
+ Distance:         408.0 miles
+ Net Rate/Hour:  $ 36.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #17 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Hanceville, AL  -  Arrive at Origin & Load
+02:02 PM  -  Hanceville, AL  -  Drive Load to Destination
+02:53 PM  -  Hoover, AL  -  Done for Day, with Load
+09:35 AM  -  Columbus, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 398.0
+ Total Rate:     $ 625.0
+ Distance:         316.0 miles
+ Net Rate/Hour:  $ 41.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #18 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:18 AM  -  Shelbyville, TN  -  Arrive at Origin & Load
+01:18 PM  -  Shelbyville, TN  -  Drive Load to Destination
+04:16 PM  -  Hoover, AL  -  Done for Day, with Load
+07:36 AM  -  Childersburg, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 393.0
+ Total Rate:     $ 600.0
+ Distance:         283.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #19 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:23 AM  -  Boaz, AL  -  Arrive at Origin & Load
+01:23 PM  -  Boaz, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:29 AM  -  Ashburn, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 391.0
+ Total Rate:     $ 700.0
+ Distance:         416.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #20 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:23 AM  -  Boaz, AL  -  Arrive at Origin & Load
+01:23 PM  -  Boaz, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:29 AM  -  Ashburn, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 391.0
+ Total Rate:     $ 700.0
+ Distance:         416.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #21 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:31 AM  -  Westmoreland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 389.0
+ Total Rate:     $ 700.0
+ Distance:         418.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #22 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:32 AM  -  Westmoreland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 388.0
+ Total Rate:     $ 700.0
+ Distance:         420.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #23 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:32 AM  -  Westmoreland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 388.0
+ Total Rate:     $ 700.0
+ Distance:         420.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #24 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:32 AM  -  Westmoreland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 388.0
+ Total Rate:     $ 700.0
+ Distance:         420.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #25 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:04 AM  -  Ashland City, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 383.0
+ Total Rate:     $ 675.0
+ Distance:         393.0 miles
+ Net Rate/Hour:  $ 35.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #26 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:54 PM  -  Hoover, AL  -  Done for Day, with Load
+11:32 AM  -  Westmoreland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 383.0
+ Total Rate:     $ 700.0
+ Distance:         426.0 miles
+ Net Rate/Hour:  $ 33.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #27 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+01:13 PM  -  Woodstock, AL  -  Arrive at Origin & Load
+03:13 PM  -  Woodstock, AL  -  Drive Load to Destination
+03:43 PM  -  Hoover, AL  -  Done for Day, with Load
+09:56 AM  -  Atlanta, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 381.0
+ Total Rate:     $ 650.0
+ Distance:         382.0 miles
+ Net Rate/Hour:  $ 35.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #28 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+01:20 PM  -  Vance, AL  -  Arrive at Origin & Load
+03:20 PM  -  Vance, AL  -  Drive Load to Destination
+03:52 PM  -  Hoover, AL  -  Done for Day, with Load
+11:29 AM  -  Memphis, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 358.0
+ Total Rate:     $ 700.0
+ Distance:         478.0 miles
+ Net Rate/Hour:  $ 29.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #29 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:09 AM  -  Ooltewah, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 358.0
+ Total Rate:     $ 600.0
+ Distance:         341.0 miles
+ Net Rate/Hour:  $ 36.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #30 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+11:20 AM  -  Greensboro, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 357.0
+ Total Rate:     $ 650.0
+ Distance:         407.0 miles
+ Net Rate/Hour:  $ 32.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #31 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+10:47 AM  -  Gainesville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 345.0
+ Total Rate:     $ 625.0
+ Distance:         378.0 miles
+ Net Rate/Hour:  $ 32.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #32 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:33 AM  -  Franklin, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 340.0
+ Total Rate:     $ 600.0
+ Distance:         364.0 miles
+ Net Rate/Hour:  $ 32.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #33 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Hanceville, AL  -  Arrive at Origin & Load
+02:02 PM  -  Hanceville, AL  -  Drive Load to Destination
+02:57 PM  -  Hoover, AL  -  Done for Day, with Load
+11:26 AM  -  Kingston, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 340.0
+ Total Rate:     $ 650.0
+ Distance:         423.0 miles
+ Net Rate/Hour:  $ 29.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #34 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+10:46 AM  -  Gainesville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 321.0
+ Total Rate:     $ 600.0
+ Distance:         376.0 miles
+ Net Rate/Hour:  $ 30.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #35 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Eastaboga, AL  -  Arrive at Origin & Load
+02:02 PM  -  Eastaboga, AL  -  Drive Load to Destination
+03:03 PM  -  Hoover, AL  -  Done for Day, with Load
+08:21 AM  -  Winfield, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 319.0
+ Total Rate:     $ 500.0
+ Distance:         256.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #36 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:02 PM  -  Eastaboga, AL  -  Arrive at Origin & Load
+02:02 PM  -  Eastaboga, AL  -  Drive Load to Destination
+03:04 PM  -  Hoover, AL  -  Done for Day, with Load
+08:20 AM  -  Winfield, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 294.0
+ Total Rate:     $ 475.0
+ Distance:         256.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #37 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:35 AM  -  Dothan, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 289.0
+ Total Rate:     $ 550.0
+ Distance:         366.0 miles
+ Net Rate/Hour:  $ 27.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #38 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+10:58 AM  -  Rome, GA  -  Arrive at Origin & Load
+12:58 PM  -  Rome, GA  -  Drive Load to Destination
+03:13 PM  -  Hoover, AL  -  Done for Day, with Load
+11:07 AM  -  Mobile, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 284.0
+ Total Rate:     $ 600.0
+ Distance:         421.0 miles
+ Net Rate/Hour:  $ 25.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #39 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+01:19 PM  -  Clanton, AL  -  Arrive at Origin & Load
+03:19 PM  -  Clanton, AL  -  Drive Load to Destination
+04:11 PM  -  Hoover, AL  -  Done for Day, with Load
+07:10 AM  -  Pelham, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 282.0
+ Total Rate:     $ 450.0
+ Distance:         253.0 miles
+ Net Rate/Hour:  $ 33.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #40 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+10:23 AM  -  Dalton, GA  -  Arrive at Origin & Load
+12:23 PM  -  Dalton, GA  -  Drive Load to Destination
+03:17 PM  -  Hoover, AL  -  Done for Day, with Load
+11:05 AM  -  Ashland City, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 278.0
+ Total Rate:     $ 600.0
+ Distance:         422.0 miles
+ Net Rate/Hour:  $ 24.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #41 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:57 AM  -  Decatur, AL  -  Arrive at Origin & Load
+01:57 PM  -  Decatur, AL  -  Drive Load to Destination
+03:39 PM  -  Hoover, AL  -  Done for Day, with Load
+07:07 AM  -  Bessemer, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 245.0
+ Total Rate:     $ 400.0
+ Distance:         222.0 miles
+ Net Rate/Hour:  $ 31.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #42 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:57 AM  -  Decatur, AL  -  Arrive at Origin & Load
+01:57 PM  -  Decatur, AL  -  Drive Load to Destination
+03:39 PM  -  Hoover, AL  -  Done for Day, with Load
+07:14 AM  -  Bessemer, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 240.0
+ Total Rate:     $ 400.0
+ Distance:         228.0 miles
+ Net Rate/Hour:  $ 30.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #43 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+10:58 AM  -  Rome, GA  -  Arrive at Origin & Load
+12:58 PM  -  Rome, GA  -  Drive Load to Destination
+03:12 PM  -  Hoover, AL  -  Done for Day, with Load
+11:07 AM  -  Mobile, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 235.0
+ Total Rate:     $ 550.0
+ Distance:         420.0 miles
+ Net Rate/Hour:  $ 20.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #44 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+10:50 AM  -  Athens, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 218.0
+ Total Rate:     $ 500.0
+ Distance:         380.0 miles
+ Net Rate/Hour:  $ 20.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #45 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+10:54 AM  -  Athens, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 216.0
+ Total Rate:     $ 500.0
+ Distance:         384.0 miles
+ Net Rate/Hour:  $ 20.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #46 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:55 AM  -  Ragland, AL  -  Arrive at Origin & Load
+01:55 PM  -  Ragland, AL  -  Drive Load to Destination
+02:48 PM  -  Hoover, AL  -  Done for Day, with Load
+11:07 AM  -  Mobile, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 209.0
+ Total Rate:     $ 500.0
+ Distance:         397.0 miles
+ Net Rate/Hour:  $ 19.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #47 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:55 AM  -  Ragland, AL  -  Arrive at Origin & Load
+01:55 PM  -  Ragland, AL  -  Drive Load to Destination
+02:51 PM  -  Hoover, AL  -  Done for Day, with Load
+11:06 AM  -  Mobile, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 208.0
+ Total Rate:     $ 500.0
+ Distance:         400.0 miles
+ Net Rate/Hour:  $ 19.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #48 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:10 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 204.0
+ Total Rate:     $ 500.0
+ Distance:         399.0 miles
+ Net Rate/Hour:  $ 18.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #49 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:10 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 204.0
+ Total Rate:     $ 500.0
+ Distance:         399.0 miles
+ Net Rate/Hour:  $ 18.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #50 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:10 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 204.0
+ Total Rate:     $ 500.0
+ Distance:         399.0 miles
+ Net Rate/Hour:  $ 18.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #51 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:54 PM  -  Hoover, AL  -  Done for Day, with Load
+10:50 AM  -  Athens, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 189.0
+ Total Rate:     $ 475.0
+ Distance:         386.0 miles
+ Net Rate/Hour:  $ 17.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #52 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+10:58 AM  -  Rome, GA  -  Arrive at Origin & Load
+12:58 PM  -  Rome, GA  -  Drive Load to Destination
+03:16 PM  -  Hoover, AL  -  Done for Day, with Load
+11:06 AM  -  Mobile, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 182.0
+ Total Rate:     $ 500.0
+ Distance:         423.0 miles
+ Net Rate/Hour:  $ 16.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #53 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:51 PM  -  Bessemer, AL  -  Arrive at Origin & Load
+02:51 PM  -  Bessemer, AL  -  Drive Load to Destination
+02:59 PM  -  Hoover, AL  -  Done for Day, with Load
+09:32 AM  -  Tupelo, MS  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 177.0
+ Total Rate:     $ 400.0
+ Distance:         319.0 miles
+ Net Rate/Hour:  $ 18.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #54 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:54 PM  -  Hoover, AL  -  Done for Day, with Load
+11:10 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 174.0
+ Total Rate:     $ 475.0
+ Distance:         405.0 miles
+ Net Rate/Hour:  $ 15.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #55 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+10:50 AM  -  Athens, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 168.0
+ Total Rate:     $ 450.0
+ Distance:         380.0 miles
+ Net Rate/Hour:  $ 16.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #56 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+10:50 AM  -  Athens, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 168.0
+ Total Rate:     $ 450.0
+ Distance:         380.0 miles
+ Net Rate/Hour:  $ 16.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #57 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:23 AM  -  Boaz, AL  -  Arrive at Origin & Load
+01:23 PM  -  Boaz, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+08:49 AM  -  Madison, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 156.0
+ Total Rate:     $ 350.0
+ Distance:         268.0 miles
+ Net Rate/Hour:  $ 18.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #58 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:21 AM  -  Albertville, AL  -  Arrive at Origin & Load
+01:21 PM  -  Albertville, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+11:10 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 154.0
+ Total Rate:     $ 450.0
+ Distance:         399.0 miles
+ Net Rate/Hour:  $ 14.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #59 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+11:23 AM  -  Boaz, AL  -  Arrive at Origin & Load
+01:23 PM  -  Boaz, AL  -  Drive Load to Destination
+02:47 PM  -  Hoover, AL  -  Done for Day, with Load
+08:50 AM  -  Madison, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 105.0
+ Total Rate:     $ 300.0
+ Distance:         268.0 miles
+ Net Rate/Hour:  $ 12.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #60 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:51 PM  -  Bessemer, AL  -  Arrive at Origin & Load
+02:51 PM  -  Bessemer, AL  -  Drive Load to Destination
+02:59 PM  -  Hoover, AL  -  Done for Day, with Load
+09:13 AM  -  Florence, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 91.0
+ Total Rate:     $ 300.0
+ Distance:         301.0 miles
+ Net Rate/Hour:  $ 10.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #61 out of 61
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:50 AM  -  Chattanooga, TN  -  Arrive at Destination & Unload
+09:50 AM  -  Chattanooga, TN  -  Deadhead to Next Load
+12:37 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:37 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:46 PM  -  Hoover, AL  -  Done for Day, with Load
+11:07 AM  -  Mobile, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 67.0
+ Total Rate:     $ 350.0
+ Distance:         395.0 miles
+ Net Rate/Hour:  $ 6.0
+ ***** Central Time Zones *****
