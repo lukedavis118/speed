@@ -8,7 +8,9 @@ def inputs():
 def status():
    global userInputs
    userInputs=(request.form)
-   return render_template("status.html")
+   global progress
+   progress = 'Starting Up...'
+   return render_template("status.html", variable = progress)
 
 @app.route('/processing', methods = ['POST', 'GET'])
 def processing():
@@ -54,6 +56,9 @@ def processing():
    
    global inputs2
    inputs2 = inputs.copy()
+
+
+   progress = 'Getting Coordinates...'
 
    # read in stored coordinates file
    global coords
