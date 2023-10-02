@@ -26,6 +26,8 @@ def findTrips(inputs,session,coords,token):
     
     # Remove any loads from unwanted brokers
     df.drop(df[df['accountName'] == 'ScrapGo LLC'].index, inplace = True)
+    df.drop(df[df['accountName'] == 'CJB FREIGHT LLC'].index, inplace = True)
+
     
     # delete all rows with unavailable loads
     if inputs['excludeLoads']:

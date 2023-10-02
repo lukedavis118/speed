@@ -1,2 +1,85 @@
 
-***No compatible loads. Return empty or extend end time.***
+*******************************************************************
+Viewing itinerary for Trip #1 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+09:08 AM  -  Columbia, TN  -  Arrive at Destination & Unload
+10:08 AM  -  Columbia, TN  -  Deadhead to Next Load
+01:27 PM  -  Talladega, AL  -  Arrive at Origin & Load
+03:27 PM  -  Talladega, AL  -  Drive Load to Destination
+04:19 PM  -  Hoover, AL  -  Done for Day, with Load
+10:27 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 683.0
+ Total Rate:     $ 1000.0
+ Total Distance:   428.0 miles
+ Net Rate/Hour:  $ 59.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #2 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+09:08 AM  -  Columbia, TN  -  Arrive at Destination & Unload
+10:08 AM  -  Columbia, TN  -  Deadhead to Next Load
+01:04 PM  -  Vernon, AL  -  Arrive at Origin & Load
+03:04 PM  -  Vernon, AL  -  Drive Load to Destination
+04:36 PM  -  Hoover, AL  -  Done for Day, with Load
+10:09 AM  -  Decatur, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 681.0
+ Total Rate:     $ 1000.0
+ Total Distance:   427.0 miles
+ Net Rate/Hour:  $ 59.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #3 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+09:08 AM  -  Columbia, TN  -  Arrive at Destination & Unload
+10:08 AM  -  Columbia, TN  -  Deadhead to Next Load
+01:37 PM  -  Tuscaloosa, AL  -  Arrive at Origin & Load
+03:37 PM  -  Tuscaloosa, AL  -  Drive Load to Destination
+04:32 PM  -  Hoover, AL  -  Done for Day, with Load
+09:41 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 610.0
+ Total Rate:     $ 900.0
+ Total Distance:   397.0 miles
+ Net Rate/Hour:  $ 55.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #4 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+09:08 AM  -  Columbia, TN  -  Arrive at Destination & Unload
+10:08 AM  -  Columbia, TN  -  Deadhead to Next Load
+01:37 PM  -  Tuscaloosa, AL  -  Arrive at Origin & Load
+03:37 PM  -  Tuscaloosa, AL  -  Drive Load to Destination
+04:32 PM  -  Hoover, AL  -  Done for Day, with Load
+09:32 AM  -  Cartersville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 566.0
+ Total Rate:     $ 850.0
+ Total Distance:   389.0 miles
+ Net Rate/Hour:  $ 52.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #5 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+09:08 AM  -  Columbia, TN  -  Arrive at Destination & Unload
+10:08 AM  -  Columbia, TN  -  Deadhead to Next Load
+12:15 PM  -  Cullman, AL  -  Arrive at Origin & Load
+02:15 PM  -  Cullman, AL  -  Drive Load to Destination
+03:20 PM  -  Hoover, AL  -  Done for Day, with Load
+09:30 AM  -  Troy, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 511.0
+ Total Rate:     $ 750.0
+ Total Distance:   320.0 miles
+ Net Rate/Hour:  $ 53.0
+ ***** Central Time Zones *****
