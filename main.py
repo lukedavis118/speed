@@ -95,45 +95,49 @@ def processing():
 
    global resultsDF
    resultsDF = pd.DataFrame(resultingTrips2)
-   resultsDF = resultsDF.sort_values(by=['netRate'],ascending=False)
-   resultsDF.reset_index(drop=True,inplace=True) 
+   try:
+      resultsDF = resultsDF.sort_values(by=['netRate'],ascending=False)
+      resultsDF.reset_index(drop=True,inplace=True) 
       
-   netRate1 = round(resultsDF['netRate'])
-   netRatePerHour1 = round(resultsDF['netRatePerHour'])
-   totalRate1 = round(resultsDF['totalRate'])
-   totalDistance1 = round(resultsDF['calcDistance'])
+      netRate1 = round(resultsDF['netRate'])
+      netRatePerHour1 = round(resultsDF['netRatePerHour'])
+      totalRate1 = round(resultsDF['totalRate'])
+      totalDistance1 = round(resultsDF['calcDistance'])
 
 
 
-   numberOfLoads=len(netRate1)
-   original_stdout = sys.stdout # Save a reference to the original standard output
+      numberOfLoads=len(netRate1)
+      original_stdout = sys.stdout # Save a reference to the original standard output
 
-   # print itinerary for top 25 loads
-   with open('results.txt', 'w') as f:
-      
+      # print itinerary for top 25 loads
+      with open('results.txt', 'w') as f:
+         
 
-      sys.stdout = f # Change the standard output to the file we created.
+         sys.stdout = f # Change the standard output to the file we created.
 
-      cc = 0
-      while cc < numberOfLoads:
-         cc += 1
-         viewItinerary = tf.getTripItinerary(resultsDF,inputs,cc) # starts at 1
-         print(' Net Rate:       $' ,netRate1[cc-1])
-         print(' Total Rate:     $' ,totalRate1[cc-1])
-         print(' Distance:        ' ,totalDistance1[cc-1], 'miles')
-         print(' Net Rate/Hour:  $' ,netRatePerHour1[cc-1])
-         print(' ***** Central Time Zones *****')
-      
-      sys.stdout = original_stdout # Reset the standard output to its original value
+         cc = 0
+         while cc < numberOfLoads:
+            cc += 1
+            viewItinerary = tf.getTripItinerary(resultsDF,inputs,cc) # starts at 1
+            print(' Net Rate:       $' ,netRate1[cc-1])
+            print(' Total Rate:     $' ,totalRate1[cc-1])
+            print(' Distance:        ' ,totalDistance1[cc-1], 'miles')
+            print(' Net Rate/Hour:  $' ,netRatePerHour1[cc-1])
+            print(' ***** Central Time Zones *****')
+         
+         sys.stdout = original_stdout # Reset the standard output to its original value
 
 
-   inputs2['startWithLoad'] = True
-   inputs2['date_start'] =inputs['next_date_start']
-   inputs2['date_end'] =inputs['date_end']+dt.timedelta(days=1)
-   global dataExtended
-   dataExtended = tf.getTruckstopLoads2(session,inputs2,token)
+      inputs2['startWithLoad'] = True
+      inputs2['date_start'] =inputs['next_date_start']
+      inputs2['date_end'] =inputs['date_end']+dt.timedelta(days=1)
+      global dataExtended
+      dataExtended = tf.getTruckstopLoads2(session,inputs2,token)
 
-   print('\nFinished calculating!  Please view the "results" file for the full results.') 
+      print('\nFinished calculating!  Please view the "results" file for the full results.')
+   except:
+      print('\n***No compatible loads. Return empty or extend end time.***')
+ 
  
    return redirect('/results')
    

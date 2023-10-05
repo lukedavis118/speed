@@ -32,11 +32,11 @@ def getToken(username,password):
     
     
     
-    latestchromedriver = ChromeDriverManager().install()
-    #set options
-    chrome_options = uc.ChromeOptions()
+    # latestchromedriver = ChromeDriverManager().install()
+    # #set options
+    # chrome_options = uc.ChromeOptions()
 
-    driver = uc.Chrome(driver_executable_path=latestchromedriver, options=chrome_options)
+    driver = uc.Chrome()#driver_executable_path=latestchromedriver, options=chrome_options)
 
     
 
