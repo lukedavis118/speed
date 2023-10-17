@@ -29,7 +29,7 @@ def processing():
    inputs['date_start'] = dt.datetime(int(userInputs['startDateYear']),int(userInputs['startDateMonth']),int(userInputs['startDateDay']),int(userInputs['startDateHour']),0,0)
    inputs['date_end'] = dt.datetime(int(userInputs['endDateYear']),int(userInputs['endDateMonth']),int(userInputs['endDateDay']),int(userInputs['endDateHour']),0,0)
    # If starting at a later time today than next day, enter number of hours
-   nextDayTimeCorrection = 0
+   nextDayTimeCorrection = 2
    inputs['next_date_start'] = inputs['date_start']-dt.timedelta(hours=nextDayTimeCorrection)+dt.timedelta(days=1)
 
 
