@@ -1,23 +1,23 @@
 
 *******************************************************************
-Viewing itinerary for Trip #1 out of 152
+Viewing itinerary for Trip #1 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
 08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:49 AM  -  Columbus, MS  -  Arrive at Origin & Load
-01:49 PM  -  Columbus, MS  -  Drive Load to Destination
-03:37 PM  -  Hoover, AL  -  Done for Day, with Load
-10:44 AM  -  Hoschton, GA  -  Next Day Delivery and Unload
+09:20 AM  -  Huntsville, AL  -  Arrive at Origin & Load
+11:20 AM  -  Huntsville, AL  -  Drive Load to Destination
+01:13 PM  -  Hoover, AL  -  Done for Day, with Load
+11:08 AM  -  Albany, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 784.0
- Total Rate:     $ 1100.0
- Distance:         469.0 miles
- Net Rate/Hour:  $ 63.0
+ Net Rate:       $ 1143.0
+ Total Rate:     $ 1400.0
+ Distance:         357.0 miles
+ Net Rate/Hour:  $ 110.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #2 out of 152
+Viewing itinerary for Trip #2 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -34,7 +34,24 @@ Viewing itinerary for Trip #2 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #3 out of 152
+Viewing itinerary for Trip #3 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:41 AM  -  Parrish, AL  -  Arrive at Origin & Load
+12:41 PM  -  Parrish, AL  -  Drive Load to Destination
+01:19 PM  -  Hoover, AL  -  Done for Day, with Load
+10:09 AM  -  Decatur, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 591.0
+ Total Rate:     $ 800.0
+ Distance:         307.0 miles
+ Net Rate/Hour:  $ 62.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #4 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -51,24 +68,7 @@ Viewing itinerary for Trip #3 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #4 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:29 AM  -  Tuscaloosa, AL  -  Arrive at Origin & Load
-01:29 PM  -  Tuscaloosa, AL  -  Drive Load to Destination
-02:25 PM  -  Hoover, AL  -  Done for Day, with Load
-09:45 AM  -  Fayetteville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 570.0
- Total Rate:     $ 800.0
- Distance:         347.0 miles
- Net Rate/Hour:  $ 56.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #5 out of 152
+Viewing itinerary for Trip #5 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -85,7 +85,7 @@ Viewing itinerary for Trip #5 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #6 out of 152
+Viewing itinerary for Trip #6 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -102,7 +102,7 @@ Viewing itinerary for Trip #6 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #7 out of 152
+Viewing itinerary for Trip #7 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -119,24 +119,7 @@ Viewing itinerary for Trip #7 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #8 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:41 AM  -  Parrish, AL  -  Arrive at Origin & Load
-12:41 PM  -  Parrish, AL  -  Drive Load to Destination
-01:19 PM  -  Hoover, AL  -  Done for Day, with Load
-10:09 AM  -  Decatur, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 541.0
- Total Rate:     $ 750.0
- Distance:         307.0 miles
- Net Rate/Hour:  $ 57.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #9 out of 152
+Viewing itinerary for Trip #8 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -153,7 +136,7 @@ Viewing itinerary for Trip #9 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #10 out of 152
+Viewing itinerary for Trip #9 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -170,7 +153,7 @@ Viewing itinerary for Trip #10 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #11 out of 152
+Viewing itinerary for Trip #10 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -187,41 +170,7 @@ Viewing itinerary for Trip #11 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #12 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:37 AM  -  Lithia Springs, GA  -  Arrive at Origin & Load
-01:37 PM  -  Lithia Springs, GA  -  Drive Load to Destination
-04:16 PM  -  Hoover, AL  -  Done for Day, with Load
-11:26 AM  -  Foley, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 527.0
- Total Rate:     $ 900.0
- Distance:         544.0 miles
- Net Rate/Hour:  $ 38.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #13 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-09:20 AM  -  Huntsville, AL  -  Arrive at Origin & Load
-11:20 AM  -  Huntsville, AL  -  Drive Load to Destination
-01:13 PM  -  Hoover, AL  -  Done for Day, with Load
-10:28 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 520.0
- Total Rate:     $ 750.0
- Distance:         319.0 miles
- Net Rate/Hour:  $ 54.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #14 out of 152
+Viewing itinerary for Trip #11 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -238,7 +187,7 @@ Viewing itinerary for Trip #14 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #15 out of 152
+Viewing itinerary for Trip #12 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -255,7 +204,7 @@ Viewing itinerary for Trip #15 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #16 out of 152
+Viewing itinerary for Trip #13 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -272,7 +221,7 @@ Viewing itinerary for Trip #16 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #17 out of 152
+Viewing itinerary for Trip #14 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -289,7 +238,41 @@ Viewing itinerary for Trip #17 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #18 out of 152
+Viewing itinerary for Trip #15 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+12:15 PM  -  Prattville, AL  -  Arrive at Origin & Load
+02:15 PM  -  Prattville, AL  -  Drive Load to Destination
+03:40 PM  -  Hoover, AL  -  Done for Day, with Load
+10:22 AM  -  Cumming, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 500.0
+ Total Rate:     $ 800.0
+ Distance:         452.0 miles
+ Net Rate/Hour:  $ 41.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #16 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+11:24 AM  -  Vance, AL  -  Arrive at Origin & Load
+01:24 PM  -  Vance, AL  -  Drive Load to Destination
+01:56 PM  -  Hoover, AL  -  Done for Day, with Load
+09:43 AM  -  Union City, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 490.0
+ Total Rate:     $ 700.0
+ Distance:         318.0 miles
+ Net Rate/Hour:  $ 51.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #17 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -306,7 +289,7 @@ Viewing itinerary for Trip #18 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #19 out of 152
+Viewing itinerary for Trip #18 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -323,7 +306,7 @@ Viewing itinerary for Trip #19 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #20 out of 152
+Viewing itinerary for Trip #19 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -340,7 +323,7 @@ Viewing itinerary for Trip #20 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #21 out of 152
+Viewing itinerary for Trip #20 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -357,7 +340,7 @@ Viewing itinerary for Trip #21 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #22 out of 152
+Viewing itinerary for Trip #21 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -374,7 +357,7 @@ Viewing itinerary for Trip #22 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #23 out of 152
+Viewing itinerary for Trip #22 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -391,7 +374,24 @@ Viewing itinerary for Trip #23 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #24 out of 152
+Viewing itinerary for Trip #23 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+11:15 AM  -  Fulton, MS  -  Arrive at Origin & Load
+01:15 PM  -  Fulton, MS  -  Drive Load to Destination
+03:28 PM  -  Hoover, AL  -  Done for Day, with Load
+11:10 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 467.0
+ Total Rate:     $ 800.0
+ Distance:         485.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #24 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -408,7 +408,7 @@ Viewing itinerary for Trip #24 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #25 out of 152
+Viewing itinerary for Trip #25 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -425,24 +425,7 @@ Viewing itinerary for Trip #25 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #26 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:47 AM  -  Carrollton, AL  -  Arrive at Origin & Load
-01:47 PM  -  Carrollton, AL  -  Drive Load to Destination
-03:17 PM  -  Hoover, AL  -  Done for Day, with Load
-10:59 AM  -  Cleveland, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 462.0
- Total Rate:     $ 775.0
- Distance:         464.0 miles
- Net Rate/Hour:  $ 38.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #27 out of 152
+Viewing itinerary for Trip #26 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -459,7 +442,24 @@ Viewing itinerary for Trip #27 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #28 out of 152
+Viewing itinerary for Trip #27 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:30 AM  -  Chattanooga, TN  -  Arrive at Origin & Load
+12:30 PM  -  Chattanooga, TN  -  Drive Load to Destination
+03:26 PM  -  Hoover, AL  -  Done for Day, with Load
+09:00 AM  -  Opelika, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 450.0
+ Total Rate:     $ 700.0
+ Distance:         361.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #28 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -476,7 +476,7 @@ Viewing itinerary for Trip #28 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #29 out of 152
+Viewing itinerary for Trip #29 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -493,7 +493,7 @@ Viewing itinerary for Trip #29 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #30 out of 152
+Viewing itinerary for Trip #30 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -510,7 +510,7 @@ Viewing itinerary for Trip #30 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #31 out of 152
+Viewing itinerary for Trip #31 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -527,7 +527,7 @@ Viewing itinerary for Trip #31 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #32 out of 152
+Viewing itinerary for Trip #32 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -544,24 +544,7 @@ Viewing itinerary for Trip #32 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #33 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:17 AM  -  Corinth, MS  -  Arrive at Origin & Load
-01:17 PM  -  Corinth, MS  -  Drive Load to Destination
-04:13 PM  -  Hoover, AL  -  Done for Day, with Load
-09:41 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 402.0
- Total Rate:     $ 705.0
- Distance:         444.0 miles
- Net Rate/Hour:  $ 34.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #34 out of 152
+Viewing itinerary for Trip #33 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -578,7 +561,24 @@ Viewing itinerary for Trip #34 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #35 out of 152
+Viewing itinerary for Trip #34 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:01 AM  -  Hanceville, AL  -  Arrive at Origin & Load
+12:01 PM  -  Hanceville, AL  -  Drive Load to Destination
+12:52 PM  -  Hoover, AL  -  Done for Day, with Load
+10:53 AM  -  Greenwood, MS  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 399.0
+ Total Rate:     $ 625.0
+ Distance:         323.0 miles
+ Net Rate/Hour:  $ 41.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #35 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -595,7 +595,7 @@ Viewing itinerary for Trip #35 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #36 out of 152
+Viewing itinerary for Trip #36 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -612,7 +612,7 @@ Viewing itinerary for Trip #36 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #37 out of 152
+Viewing itinerary for Trip #37 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -629,7 +629,7 @@ Viewing itinerary for Trip #37 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #38 out of 152
+Viewing itinerary for Trip #38 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -646,7 +646,7 @@ Viewing itinerary for Trip #38 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #39 out of 152
+Viewing itinerary for Trip #39 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -663,75 +663,58 @@ Viewing itinerary for Trip #39 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #40 out of 152
+Viewing itinerary for Trip #40 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
 08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:24 AM  -  Vance, AL  -  Arrive at Origin & Load
-01:24 PM  -  Vance, AL  -  Drive Load to Destination
-01:56 PM  -  Hoover, AL  -  Done for Day, with Load
-09:43 AM  -  Union City, GA  -  Next Day Delivery and Unload
+10:15 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
+12:15 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
+02:24 PM  -  Hoover, AL  -  Done for Day, with Load
+09:37 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 390.0
- Total Rate:     $ 600.0
- Distance:         318.0 miles
+ Net Rate:       $ 389.0
+ Total Rate:     $ 625.0
+ Distance:         339.0 miles
+ Net Rate/Hour:  $ 39.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #41 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:15 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
+12:15 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
+02:24 PM  -  Hoover, AL  -  Done for Day, with Load
+09:37 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 389.0
+ Total Rate:     $ 625.0
+ Distance:         339.0 miles
+ Net Rate/Hour:  $ 39.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #42 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:01 AM  -  Hanceville, AL  -  Arrive at Origin & Load
+12:01 PM  -  Hanceville, AL  -  Drive Load to Destination
+12:52 PM  -  Hoover, AL  -  Done for Day, with Load
+10:53 AM  -  Greenwood, MS  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 389.0
+ Total Rate:     $ 615.0
+ Distance:         323.0 miles
  Net Rate/Hour:  $ 40.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #41 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:15 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:15 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:24 PM  -  Hoover, AL  -  Done for Day, with Load
-09:37 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 389.0
- Total Rate:     $ 625.0
- Distance:         339.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #42 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:15 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:15 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:24 PM  -  Hoover, AL  -  Done for Day, with Load
-09:37 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 389.0
- Total Rate:     $ 625.0
- Distance:         339.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #43 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:15 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:15 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:24 PM  -  Hoover, AL  -  Done for Day, with Load
-09:37 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 389.0
- Total Rate:     $ 625.0
- Distance:         339.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #44 out of 152
+Viewing itinerary for Trip #43 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -748,7 +731,7 @@ Viewing itinerary for Trip #44 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #45 out of 152
+Viewing itinerary for Trip #44 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -765,7 +748,7 @@ Viewing itinerary for Trip #45 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #46 out of 152
+Viewing itinerary for Trip #45 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -782,7 +765,7 @@ Viewing itinerary for Trip #46 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #47 out of 152
+Viewing itinerary for Trip #46 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -799,7 +782,24 @@ Viewing itinerary for Trip #47 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #48 out of 152
+Viewing itinerary for Trip #47 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:01 AM  -  Hanceville, AL  -  Arrive at Origin & Load
+12:01 PM  -  Hanceville, AL  -  Drive Load to Destination
+12:52 PM  -  Hoover, AL  -  Done for Day, with Load
+10:53 AM  -  Greenwood, MS  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 374.0
+ Total Rate:     $ 600.0
+ Distance:         323.0 miles
+ Net Rate/Hour:  $ 38.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #48 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -816,7 +816,24 @@ Viewing itinerary for Trip #48 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #49 out of 152
+Viewing itinerary for Trip #49 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+11:17 AM  -  Corinth, MS  -  Arrive at Origin & Load
+01:17 PM  -  Corinth, MS  -  Drive Load to Destination
+04:13 PM  -  Hoover, AL  -  Done for Day, with Load
+09:41 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 372.0
+ Total Rate:     $ 675.0
+ Distance:         444.0 miles
+ Net Rate/Hour:  $ 31.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #50 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -833,7 +850,7 @@ Viewing itinerary for Trip #49 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #50 out of 152
+Viewing itinerary for Trip #51 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -850,24 +867,24 @@ Viewing itinerary for Trip #50 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #51 out of 152
+Viewing itinerary for Trip #52 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
 08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:47 AM  -  Carrollton, AL  -  Arrive at Origin & Load
-01:47 PM  -  Carrollton, AL  -  Drive Load to Destination
-03:17 PM  -  Hoover, AL  -  Done for Day, with Load
-10:59 AM  -  Cleveland, GA  -  Next Day Delivery and Unload
+10:30 AM  -  Chattanooga, TN  -  Arrive at Origin & Load
+12:30 PM  -  Chattanooga, TN  -  Drive Load to Destination
+03:26 PM  -  Hoover, AL  -  Done for Day, with Load
+11:05 AM  -  Ashland City, TN  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 362.0
- Total Rate:     $ 675.0
- Distance:         464.0 miles
+ Net Rate:       $ 365.0
+ Total Rate:     $ 700.0
+ Distance:         478.0 miles
  Net Rate/Hour:  $ 29.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #52 out of 152
+Viewing itinerary for Trip #53 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -884,7 +901,7 @@ Viewing itinerary for Trip #52 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #53 out of 152
+Viewing itinerary for Trip #54 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -901,7 +918,7 @@ Viewing itinerary for Trip #53 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #54 out of 152
+Viewing itinerary for Trip #55 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -918,7 +935,7 @@ Viewing itinerary for Trip #54 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #55 out of 152
+Viewing itinerary for Trip #56 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -935,7 +952,7 @@ Viewing itinerary for Trip #55 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #56 out of 152
+Viewing itinerary for Trip #57 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -952,7 +969,7 @@ Viewing itinerary for Trip #56 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #57 out of 152
+Viewing itinerary for Trip #58 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -969,24 +986,7 @@ Viewing itinerary for Trip #57 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #58 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:45 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
-12:45 PM  -  Eastaboga, AL  -  Drive Load to Destination
-01:46 PM  -  Hoover, AL  -  Done for Day, with Load
-08:21 AM  -  Winfield, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 347.0
- Total Rate:     $ 500.0
- Distance:         232.0 miles
- Net Rate/Hour:  $ 43.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #59 out of 152
+Viewing itinerary for Trip #59 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1003,7 +1003,7 @@ Viewing itinerary for Trip #59 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #60 out of 152
+Viewing itinerary for Trip #60 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1020,7 +1020,7 @@ Viewing itinerary for Trip #60 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #61 out of 152
+Viewing itinerary for Trip #61 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1037,7 +1037,7 @@ Viewing itinerary for Trip #61 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #62 out of 152
+Viewing itinerary for Trip #62 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1054,7 +1054,7 @@ Viewing itinerary for Trip #62 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #63 out of 152
+Viewing itinerary for Trip #63 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1071,7 +1071,7 @@ Viewing itinerary for Trip #63 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #64 out of 152
+Viewing itinerary for Trip #64 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1088,24 +1088,7 @@ Viewing itinerary for Trip #64 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #65 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:45 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
-12:45 PM  -  Eastaboga, AL  -  Drive Load to Destination
-01:46 PM  -  Hoover, AL  -  Done for Day, with Load
-08:42 AM  -  Hamilton, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 333.0
- Total Rate:     $ 500.0
- Distance:         251.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #66 out of 152
+Viewing itinerary for Trip #65 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1122,7 +1105,7 @@ Viewing itinerary for Trip #66 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #67 out of 152
+Viewing itinerary for Trip #66 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1139,7 +1122,7 @@ Viewing itinerary for Trip #67 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #68 out of 152
+Viewing itinerary for Trip #67 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1156,7 +1139,7 @@ Viewing itinerary for Trip #68 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #69 out of 152
+Viewing itinerary for Trip #68 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1173,7 +1156,7 @@ Viewing itinerary for Trip #69 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #70 out of 152
+Viewing itinerary for Trip #69 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1190,7 +1173,7 @@ Viewing itinerary for Trip #70 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #71 out of 152
+Viewing itinerary for Trip #70 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1207,7 +1190,7 @@ Viewing itinerary for Trip #71 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #72 out of 152
+Viewing itinerary for Trip #71 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1224,7 +1207,7 @@ Viewing itinerary for Trip #72 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #73 out of 152
+Viewing itinerary for Trip #72 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1241,7 +1224,7 @@ Viewing itinerary for Trip #73 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #74 out of 152
+Viewing itinerary for Trip #73 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1258,7 +1241,7 @@ Viewing itinerary for Trip #74 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #75 out of 152
+Viewing itinerary for Trip #74 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1275,7 +1258,7 @@ Viewing itinerary for Trip #75 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #76 out of 152
+Viewing itinerary for Trip #75 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1292,7 +1275,7 @@ Viewing itinerary for Trip #76 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #77 out of 152
+Viewing itinerary for Trip #76 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1309,41 +1292,7 @@ Viewing itinerary for Trip #77 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #78 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:33 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:33 PM  -  Jasper, AL  -  Drive Load to Destination
-01:20 PM  -  Hoover, AL  -  Done for Day, with Load
-10:54 AM  -  Sparta, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 309.0
- Total Rate:     $ 550.0
- Distance:         350.0 miles
- Net Rate/Hour:  $ 30.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #79 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:33 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:33 PM  -  Jasper, AL  -  Drive Load to Destination
-01:20 PM  -  Hoover, AL  -  Done for Day, with Load
-10:54 AM  -  Sparta, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 309.0
- Total Rate:     $ 550.0
- Distance:         350.0 miles
- Net Rate/Hour:  $ 30.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #80 out of 152
+Viewing itinerary for Trip #77 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1360,7 +1309,7 @@ Viewing itinerary for Trip #80 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #81 out of 152
+Viewing itinerary for Trip #78 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1377,7 +1326,7 @@ Viewing itinerary for Trip #81 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #82 out of 152
+Viewing itinerary for Trip #79 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1394,7 +1343,7 @@ Viewing itinerary for Trip #82 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #83 out of 152
+Viewing itinerary for Trip #80 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1411,7 +1360,7 @@ Viewing itinerary for Trip #83 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #84 out of 152
+Viewing itinerary for Trip #81 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1428,7 +1377,7 @@ Viewing itinerary for Trip #84 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #85 out of 152
+Viewing itinerary for Trip #82 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1445,7 +1394,7 @@ Viewing itinerary for Trip #85 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #86 out of 152
+Viewing itinerary for Trip #83 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1462,7 +1411,7 @@ Viewing itinerary for Trip #86 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #87 out of 152
+Viewing itinerary for Trip #84 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1479,7 +1428,7 @@ Viewing itinerary for Trip #87 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #88 out of 152
+Viewing itinerary for Trip #85 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1496,7 +1445,7 @@ Viewing itinerary for Trip #88 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #89 out of 152
+Viewing itinerary for Trip #86 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1513,7 +1462,7 @@ Viewing itinerary for Trip #89 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #90 out of 152
+Viewing itinerary for Trip #87 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1530,7 +1479,7 @@ Viewing itinerary for Trip #90 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #91 out of 152
+Viewing itinerary for Trip #88 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1547,7 +1496,7 @@ Viewing itinerary for Trip #91 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #92 out of 152
+Viewing itinerary for Trip #89 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1564,7 +1513,7 @@ Viewing itinerary for Trip #92 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #93 out of 152
+Viewing itinerary for Trip #90 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1581,7 +1530,7 @@ Viewing itinerary for Trip #93 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #94 out of 152
+Viewing itinerary for Trip #91 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1598,7 +1547,7 @@ Viewing itinerary for Trip #94 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #95 out of 152
+Viewing itinerary for Trip #92 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1615,7 +1564,7 @@ Viewing itinerary for Trip #95 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #96 out of 152
+Viewing itinerary for Trip #93 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1632,7 +1581,7 @@ Viewing itinerary for Trip #96 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #97 out of 152
+Viewing itinerary for Trip #94 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1649,7 +1598,7 @@ Viewing itinerary for Trip #97 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #98 out of 152
+Viewing itinerary for Trip #95 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1666,7 +1615,7 @@ Viewing itinerary for Trip #98 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #99 out of 152
+Viewing itinerary for Trip #96 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1683,7 +1632,7 @@ Viewing itinerary for Trip #99 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #100 out of 152
+Viewing itinerary for Trip #97 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1700,7 +1649,24 @@ Viewing itinerary for Trip #100 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #101 out of 152
+Viewing itinerary for Trip #98 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:15 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
+12:15 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
+02:24 PM  -  Hoover, AL  -  Done for Day, with Load
+11:05 AM  -  Ashland City, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 280.0
+ Total Rate:     $ 575.0
+ Distance:         421.0 miles
+ Net Rate/Hour:  $ 24.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #99 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1717,7 +1683,7 @@ Viewing itinerary for Trip #101 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #102 out of 152
+Viewing itinerary for Trip #100 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1734,24 +1700,7 @@ Viewing itinerary for Trip #102 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #103 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-09:40 AM  -  Jackson, AL  -  Arrive at Origin & Load
-11:40 AM  -  Jackson, AL  -  Drive Load to Destination
-02:38 PM  -  Hoover, AL  -  Done for Day, with Load
-09:04 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 272.0
- Total Rate:     $ 500.0
- Distance:         321.0 miles
- Net Rate/Hour:  $ 28.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #104 out of 152
+Viewing itinerary for Trip #101 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1768,24 +1717,7 @@ Viewing itinerary for Trip #104 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #105 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:33 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:33 PM  -  Jasper, AL  -  Drive Load to Destination
-01:20 PM  -  Hoover, AL  -  Done for Day, with Load
-09:29 AM  -  Fayetteville, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 266.0
- Total Rate:     $ 450.0
- Distance:         271.0 miles
- Net Rate/Hour:  $ 30.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #106 out of 152
+Viewing itinerary for Trip #102 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1802,7 +1734,7 @@ Viewing itinerary for Trip #106 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #107 out of 152
+Viewing itinerary for Trip #103 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1819,7 +1751,24 @@ Viewing itinerary for Trip #107 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #108 out of 152
+Viewing itinerary for Trip #104 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:45 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
+12:45 PM  -  Eastaboga, AL  -  Drive Load to Destination
+01:46 PM  -  Hoover, AL  -  Done for Day, with Load
+10:27 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 261.0
+ Total Rate:     $ 500.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 25.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #105 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1836,7 +1785,7 @@ Viewing itinerary for Trip #108 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #109 out of 152
+Viewing itinerary for Trip #106 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1854,24 +1803,7 @@ Viewing itinerary for Trip #109 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #110 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-12:08 PM  -  Lanett, AL  -  Arrive at Origin & Load
-02:08 PM  -  Lanett, AL  -  Drive Load to Destination
-04:14 PM  -  Hoover, AL  -  Done for Day, with Load
-07:10 AM  -  Pelham, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 257.0
- Total Rate:     $ 450.0
- Distance:         304.0 miles
- Net Rate/Hour:  $ 27.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #111 out of 152
+Viewing itinerary for Trip #107 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1889,7 +1821,7 @@ Viewing itinerary for Trip #111 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #112 out of 152
+Viewing itinerary for Trip #108 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1906,7 +1838,7 @@ Viewing itinerary for Trip #112 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #113 out of 152
+Viewing itinerary for Trip #109 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1923,7 +1855,7 @@ Viewing itinerary for Trip #113 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #114 out of 152
+Viewing itinerary for Trip #110 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1940,7 +1872,7 @@ Viewing itinerary for Trip #114 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #115 out of 152
+Viewing itinerary for Trip #111 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1957,24 +1889,7 @@ Viewing itinerary for Trip #115 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #116 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-12:24 PM  -  Montgomery, AL  -  Arrive at Origin & Load
-02:24 PM  -  Montgomery, AL  -  Drive Load to Destination
-04:00 PM  -  Hoover, AL  -  Done for Day, with Load
-08:52 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 250.0
- Total Rate:     $ 500.0
- Distance:         386.0 miles
- Net Rate/Hour:  $ 23.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #117 out of 152
+Viewing itinerary for Trip #112 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -1991,7 +1906,7 @@ Viewing itinerary for Trip #117 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #118 out of 152
+Viewing itinerary for Trip #113 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2008,7 +1923,7 @@ Viewing itinerary for Trip #118 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #119 out of 152
+Viewing itinerary for Trip #114 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2025,7 +1940,7 @@ Viewing itinerary for Trip #119 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #120 out of 152
+Viewing itinerary for Trip #115 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2042,7 +1957,7 @@ Viewing itinerary for Trip #120 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #121 out of 152
+Viewing itinerary for Trip #116 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2059,7 +1974,7 @@ Viewing itinerary for Trip #121 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #122 out of 152
+Viewing itinerary for Trip #117 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2076,7 +1991,7 @@ Viewing itinerary for Trip #122 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #123 out of 152
+Viewing itinerary for Trip #118 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2093,7 +2008,24 @@ Viewing itinerary for Trip #123 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #124 out of 152
+Viewing itinerary for Trip #119 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+10:33 AM  -  Jasper, AL  -  Arrive at Origin & Load
+12:33 PM  -  Jasper, AL  -  Drive Load to Destination
+01:20 PM  -  Hoover, AL  -  Done for Day, with Load
+09:31 AM  -  Fayetteville, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 216.0
+ Total Rate:     $ 400.0
+ Distance:         272.0 miles
+ Net Rate/Hour:  $ 24.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #120 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2110,7 +2042,7 @@ Viewing itinerary for Trip #124 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #125 out of 152
+Viewing itinerary for Trip #121 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2127,7 +2059,7 @@ Viewing itinerary for Trip #125 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #126 out of 152
+Viewing itinerary for Trip #122 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2144,7 +2076,7 @@ Viewing itinerary for Trip #126 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #127 out of 152
+Viewing itinerary for Trip #123 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2161,7 +2093,7 @@ Viewing itinerary for Trip #127 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #128 out of 152
+Viewing itinerary for Trip #124 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2178,7 +2110,7 @@ Viewing itinerary for Trip #128 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #129 out of 152
+Viewing itinerary for Trip #125 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2195,7 +2127,7 @@ Viewing itinerary for Trip #129 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #130 out of 152
+Viewing itinerary for Trip #126 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2212,7 +2144,7 @@ Viewing itinerary for Trip #130 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #131 out of 152
+Viewing itinerary for Trip #127 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2229,7 +2161,7 @@ Viewing itinerary for Trip #131 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #132 out of 152
+Viewing itinerary for Trip #128 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2247,7 +2179,7 @@ Viewing itinerary for Trip #132 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #133 out of 152
+Viewing itinerary for Trip #129 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2264,24 +2196,7 @@ Viewing itinerary for Trip #133 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #134 out of 152
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-10:33 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:33 PM  -  Jasper, AL  -  Drive Load to Destination
-01:20 PM  -  Hoover, AL  -  Done for Day, with Load
-09:31 AM  -  Fayetteville, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 191.0
- Total Rate:     $ 375.0
- Distance:         272.0 miles
- Net Rate/Hour:  $ 22.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #135 out of 152
+Viewing itinerary for Trip #130 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2298,7 +2213,7 @@ Viewing itinerary for Trip #135 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #136 out of 152
+Viewing itinerary for Trip #131 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2315,7 +2230,7 @@ Viewing itinerary for Trip #136 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #137 out of 152
+Viewing itinerary for Trip #132 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2332,24 +2247,24 @@ Viewing itinerary for Trip #137 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #138 out of 152
+Viewing itinerary for Trip #133 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
 08:59 AM  -  Madison, AL  -  Deadhead to Next Load
-11:34 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:34 PM  -  Gordo, AL  -  Drive Load to Destination
-02:51 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Meridian, MS  -  Next Day Delivery and Unload
+09:49 AM  -  Albertville, AL  -  Arrive at Origin & Load
+11:49 AM  -  Albertville, AL  -  Drive Load to Destination
+01:21 PM  -  Hoover, AL  -  Done for Day, with Load
+09:31 AM  -  Fayetteville, TN  -  Next Day Delivery and Unload
 *******************************************************************
  Net Rate:       $ 158.0
- Total Rate:     $ 400.0
- Distance:         365.0 miles
- Net Rate/Hour:  $ 15.0
+ Total Rate:     $ 350.0
+ Distance:         274.0 miles
+ Net Rate/Hour:  $ 18.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #139 out of 152
+Viewing itinerary for Trip #134 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2366,7 +2281,7 @@ Viewing itinerary for Trip #139 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #140 out of 152
+Viewing itinerary for Trip #135 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2383,7 +2298,7 @@ Viewing itinerary for Trip #140 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #141 out of 152
+Viewing itinerary for Trip #136 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2400,7 +2315,7 @@ Viewing itinerary for Trip #141 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #142 out of 152
+Viewing itinerary for Trip #137 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2417,7 +2332,7 @@ Viewing itinerary for Trip #142 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #143 out of 152
+Viewing itinerary for Trip #138 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2434,7 +2349,24 @@ Viewing itinerary for Trip #143 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #144 out of 152
+Viewing itinerary for Trip #139 out of 148
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
+08:59 AM  -  Madison, AL  -  Deadhead to Next Load
+12:22 PM  -  Selma, AL  -  Arrive at Origin & Load
+02:22 PM  -  Selma, AL  -  Drive Load to Destination
+03:44 PM  -  Hoover, AL  -  Done for Day, with Load
+11:07 AM  -  Niceville, FL  -  Next Day Delivery and Unload
+*******************************************************************
+ Net Rate:       $ 143.0
+ Total Rate:     $ 475.0
+ Distance:         498.0 miles
+ Net Rate/Hour:  $ 11.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #140 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2451,7 +2383,7 @@ Viewing itinerary for Trip #144 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #145 out of 152
+Viewing itinerary for Trip #141 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2468,7 +2400,7 @@ Viewing itinerary for Trip #145 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #146 out of 152
+Viewing itinerary for Trip #142 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2485,7 +2417,7 @@ Viewing itinerary for Trip #146 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #147 out of 152
+Viewing itinerary for Trip #143 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2502,7 +2434,7 @@ Viewing itinerary for Trip #147 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #148 out of 152
+Viewing itinerary for Trip #144 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2519,7 +2451,7 @@ Viewing itinerary for Trip #148 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #149 out of 152
+Viewing itinerary for Trip #145 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2536,7 +2468,7 @@ Viewing itinerary for Trip #149 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #150 out of 152
+Viewing itinerary for Trip #146 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2553,7 +2485,7 @@ Viewing itinerary for Trip #150 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #151 out of 152
+Viewing itinerary for Trip #147 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload
@@ -2570,7 +2502,7 @@ Viewing itinerary for Trip #151 out of 152
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #152 out of 152
+Viewing itinerary for Trip #148 out of 148
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
 07:59 AM  -  Madison, AL  -  Arrive at Destination & Unload

@@ -136,12 +136,7 @@ def processing():
 
       print('\nFinished calculating!  Please view the "results" file for the full results.')
    except:
-      with open('results.txt', 'w') as f:
-         original_stdout = sys.stdout
-         sys.stdout = f # Change the standard output to the file we created.
-         print('\n***No compatible loads. Return empty or extend end time.***')
-         sys.stdout = original_stdout
-      print('\n***No compatible loads. Return empty or extend end time.***')
+       print('\n***No compatible loads. Return empty or extend end time.***')
       
  
  
