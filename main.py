@@ -141,6 +141,8 @@ def processing():
          sys.stdout = f # Change the standard output to the file we created.
          print('\n***No compatible loads. Return empty or extend end time.***')
          sys.stdout = original_stdout
+      print('\n***No compatible loads. Return empty or extend end time.***')
+      
  
  
    return redirect('/results')
