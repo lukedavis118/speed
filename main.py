@@ -29,7 +29,7 @@ def processing():
    inputs['date_start'] = dt.datetime(int(userInputs['startDateYear']),int(userInputs['startDateMonth']),int(userInputs['startDateDay']),int(userInputs['startDateHour']),0,0)
    inputs['date_end'] = dt.datetime(int(userInputs['endDateYear']),int(userInputs['endDateMonth']),int(userInputs['endDateDay']),int(userInputs['endDateHour']),0,0)
    # If starting at a later time today than next day, enter number of hours
-   nextDayTimeCorrection = 2
+   nextDayTimeCorrection = 0
    inputs['next_date_start'] = inputs['date_start']-dt.timedelta(hours=nextDayTimeCorrection)+dt.timedelta(days=1)
 
 
@@ -136,7 +136,11 @@ def processing():
 
       print('\nFinished calculating!  Please view the "results" file for the full results.')
    except:
-      print('\n***No compatible loads. Return empty or extend end time.***')
+      with open('results.txt', 'w') as f:
+         original_stdout = sys.stdout
+         sys.stdout = f # Change the standard output to the file we created.
+         print('\n***No compatible loads. Return empty or extend end time.***')
+         sys.stdout = original_stdout
  
  
    return redirect('/results')
