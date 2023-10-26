@@ -66,7 +66,7 @@ def getToken(username,password):
             tokenURL = False
                       
     token = websiteID.replace('https://main.truckstop.com/?id=', 'https://v5-auth.truckstop.com/auth/token/')
-    token = token.replace('&source=login&event=login', '')
+    token = token.replace('&source=truckstop.my.site.com%2f&event=refresh', '')
     
     print('Successfully Retrieved Token!')
     driver.close

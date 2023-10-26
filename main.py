@@ -39,6 +39,8 @@ def findTrips(inputs,session,coords,token):
 
     
     # get coords of all locations
+    global cityOfInterest
+    cityOfInterest = None
     df,coords = getNewCoordinates(df,coords,inputs)
     if cityOfInterest:
         return render_template("coordinates.html", variable = cityOfInterest)
