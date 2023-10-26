@@ -3,23 +3,23 @@
    <body>
      
       <form action = "http://localhost:5000/status" method = "POST">
-         <p>Start Date  <input type = "number" name = "startDateYear" value = '2023'> <input type = "number" name = "startDateMonth" value = '10'> <input type = "number" name = "startDateDay" value = '25'> <input type = "number" name = "startDateHour" value = '6'></p>
-         <p>End Date  <input type = "number" name = "endDateYear" value = '2023'> <input type = "number" name = "endDateMonth" value = '10'> <input type = "number" name = "endDateDay" value = '26'> <input type = "number" name = "endDateHour" value = '16'></p>
-         <p>Start With Load (Leave Blank if False) <input type = "text" name = "startWithLoad" value = 'True' /></p>
-         <p>Start Load City  <input type = "text" name = "startLoadCity" value = 'Columbia, TN' /></p>
-         <p>Exclude Loads (Leave Blank if False) <input type = "text" name = "excludeLoads" value = '' /></p>
-         <p>Can You Deliver Next Day (Leave Blank if False) <input type ="text" name = "canDeliverNextDay" value = 'True' /></p>
-         <p>Load Time  <input type ="number" name = "loadTime" value = 2 step=0.1 /></p>
-         <p>Unload Time  <input type ="number" name = "unloadTime" value = 1 step=0.1 /></p>
-         <p>Average Speed  <input type ="number" name = "avgSpeed" value = 56 step=1/></p>
-         <p>Start Coordinates  <input type = "number" name = "startCoordsLat" value = '33.412402' step=0.000001> <input type = "number" name = "startCoordsLong" value = '-86.843263' step=0.000001 ></p>
-         <p>Start Day City  <input type = "text" name = "startDayCity" value = 'Hoover, AL' /></p>
-         <p>End Coordinates  <input type = "number" name = "endCoordsLat" value = '33.412402' step=0.000001 > <input type = "number" name = "endCoordsLong" value = '-86.843263' step=0.000001 ></p>
-         <p>End Day City  <input type = "text" name = "endDayCity" value = 'Hoover, AL' /></p>
-         <p>Loaded MPG  <input type ="number" name = "MPG_load" value = 7 step=0.1 /></p>
-         <p>Empty MPG  <input type ="number" name = "MPG_empty" value = 10 step=0.1 /></p>
-         <p>Fuel Price  <input type ="number" name = "diesel" value = 3.85 step=0.01 /></p>
-         <p>Maintenance Cost Per Mile  <input type ="number" name = "maintCostPerMile" value = 0.18 step=0.01 /></p>
+         <p>Start Date  <input type = "number" name = "startDateYear" value = {{savedInputs[0]}}> <input type = "number" name = "startDateMonth" value = {{savedInputs[1]}}> <input type = "number" name = "startDateDay" value = {{savedInputs[2]}}> <input type = "number" name = "startDateHour" value = {{savedInputs[3]}}></p>
+         <p>End Date  <input type = "number" name = "endDateYear" value = {{savedInputs[4]}}> <input type = "number" name = "endDateMonth" value = {{savedInputs[5]}}> <input type = "number" name = "endDateDay" value = {{savedInputs[6]}}> <input type = "number" name = "endDateHour" value = {{savedInputs[7]}}></p>
+         <p>Start With Load (Leave Blank if False) <input type = "text" name = "startWithLoad" value = {{savedInputs[8]}} ></p>
+         <p>Start Load City  <input type = "text" name = "startLoadCity" value = {{savedInputs[9]}}> <input type = "text" name = "startLoadState" value = {{savedInputs[10]}} ></p>
+         <p>Exclude Loads (Leave Blank if False) <input type = "text" name = "excludeLoads" value = {{savedInputs[11]}} ></p>
+         <p>Can You Deliver Next Day (Leave Blank if False) <input type ="text" name = "canDeliverNextDay" value = {{savedInputs[12]}} ></p>
+         <p>Load Time  <input type ="number" name = "loadTime" value = {{savedInputs[13]}} step=0.1 /></p>
+         <p>Unload Time  <input type ="number" name = "unloadTime" value = {{savedInputs[14]}} step=0.1 /></p>
+         <p>Average Speed  <input type ="number" name = "avgSpeed" value = {{savedInputs[15]}} step=1/></p>
+         <p>Start Coordinates  <input type = "number" name = "startCoordsLat" value = {{savedInputs[16]}} step=0.000001> <input type = "number" name = "startCoordsLong" value = {{savedInputs[17]}} step=0.000001 ></p>
+         <p>Start Day City  <input type = "text" name = "startDayCity" value = {{savedInputs[18]}} ><input type = "text" name = "startDayState" value = {{savedInputs[19]}} ></p>
+         <p>End Coordinates  <input type = "number" name = "endCoordsLat" value = {{savedInputs[20]}} step=0.000001 > <input type = "number" name = "endCoordsLong" value = {{savedInputs[21]}} step=0.000001 ></p>
+         <p>End Day City  <input type = "text" name = "endDayCity" value = {{savedInputs[22]}} ><input type = "text" name = "endDayState" value = {{savedInputs[23]}} ></p>
+         <p>Loaded MPG  <input type ="number" name = "MPG_load" value = {{savedInputs[24]}} step=0.1 /></p>
+         <p>Empty MPG  <input type ="number" name = "MPG_empty" value = {{savedInputs[25]}} step=0.1 /></p>
+         <p>Fuel Price  <input type ="number" name = "diesel" value = {{savedInputs[26]}} step=0.01 /></p>
+         <p>Maintenance Cost Per Mile  <input type ="number" name = "maintCostPerMile" value = {{savedInputs[27]}} step=0.01 /></p>
          <p><input type = "submit" value = "submit" /></p>
       </form>
    </body>
