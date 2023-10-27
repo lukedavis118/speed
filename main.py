@@ -131,6 +131,7 @@ def findTrips(inputs,session,coords,token):
     
     print('\nFinding initial list of possible loads...')
     firstLoads = tf.getNextPossibleLegs(df,coords,inputs,itinerary)
+
     
     # initialize the finalTrips variable
     finalTrips = []
@@ -164,6 +165,8 @@ def findTrips(inputs,session,coords,token):
             resultingTrips = tf.getTripStatsFast(finalTrips,inputs)
     else:
         resultingTrips = tf.getTripStatsFast(finalTrips,inputs)
+
+
 
 #______________________________________________________________________________
 
@@ -384,6 +387,8 @@ def processing():
    inputs['MPG_empty'] = float(userInputs['MPG_empty'])
    inputs['diesel'] = float(userInputs['diesel'])
    inputs['maintCostPerMile'] = float(userInputs['maintCostPerMile'])
+   inputs['driverPayPerHour'] = float(userInputs['driverPayPerHour'])
+
    
    global inputs2
    inputs2 = inputs.copy()
@@ -422,13 +427,16 @@ def processing():
 
       
    def myFunc(e):
-      return e['netRatePerHour']
+      return e['netRate']
    resultingTrips.sort(key=myFunc,reverse=True)
    resultingTrips2=resultingTrips.copy()
+
 
    global resultsDF
    resultsDF = pd.DataFrame(resultingTrips2)
    original_stdout = sys.stdout # Save a reference to the original standard output
+   import pandas
+   resultsDF.to_csv('resultsDF.csv')
 
    try:
       resultsDF = resultsDF.sort_values(by=['netRate'],ascending=False)
@@ -438,6 +446,8 @@ def processing():
       netRatePerHour1 = round(resultsDF['netRatePerHour'])
       totalRate1 = round(resultsDF['totalRate'])
       totalDistance1 = round(resultsDF['calcDistance'])
+      driverPay1 = round(resultsDF['driverPay'])
+      totalNet1 = driverPay1 + netRate1
 
 
 
@@ -453,8 +463,10 @@ def processing():
          while cc < numberOfLoads:
             cc += 1
             viewItinerary = tf.getTripItinerary(resultsDF,inputs,cc) # starts at 1
-            print(' Net Rate:       $' ,netRate1[cc-1])
-            print(' Total Rate:     $' ,totalRate1[cc-1])
+            print(' Business Net:   $' ,netRate1[cc-1])
+            print(' Driver Pay:     $' ,driverPay1[cc-1])
+            print(' Total Net:      $' ,totalNet1[cc-1])
+            print(' Posted Rate:    $' ,totalRate1[cc-1])
             print(' Distance:        ' ,totalDistance1[cc-1], 'miles')
             print(' Net Rate/Hour:  $' ,netRatePerHour1[cc-1])
             print(' ***** Central Time Zones *****')
@@ -489,8 +501,6 @@ def extend():
    import testTruckingFunctions as tf
    import pandas as pd
    import sys
-
-
    doYouWishToContinue = (request.form)
    extendedTripItinerarySelector = int(doYouWishToContinue['doYouWishToContinue'])-1
    ###############################################
@@ -526,6 +536,9 @@ def extend():
             netRatePerHour2 = round(resultingTripsExtDF['netRatePerHour'])
             totalRate2 = round(resultingTripsExtDF['totalRate'])
             totalDistance2 = round(resultingTripsExtDF['calcDistance'])
+            driverPay2 = round(resultsDF['driverPay'])
+            totalNet2 = driverPay2 + netRate2
+
 
             numberOfLoads=len(netRate2)
             
@@ -536,8 +549,10 @@ def extend():
             while cc < numberOfLoads:
                   cc += 1
                   viewItinerary = tf.getTripItinerary2(resultingTripsExtDF,inputs2,cc) # starts at 1
-                  print(' Net Rate:       $' ,netRate2[cc-1])
-                  print(' Total Rate:     $' ,totalRate2[cc-1])
+                  print(' Business Net:   $' ,netRate2[cc-1])
+                  print(' Driver Pay:     $' ,driverPay2[cc-1])
+                  print(' Total Net:      $' ,totalNet2[cc-1])
+                  print(' Posted Rate:    $' ,totalRate2[cc-1])
                   print(' Total Distance:  ' ,totalDistance2[cc-1], 'miles')
                   print(' Net Rate/Hour:  $' ,netRatePerHour2[cc-1])
                   print(' ***** Central Time Zones *****')

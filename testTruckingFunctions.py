@@ -21,6 +21,7 @@ import numpy as np
 import datetime as dt
 import undetected_chromedriver as uc
 from webdriver_manager.chrome import ChromeDriverManager
+import pickle
 
 
 
@@ -197,12 +198,14 @@ def getTruckstopLoads(session,inputs,token):
     data = q[list(q)[0]][list(q[list(q)[0]])[0]]
     
     # Continue getting additional loads until they match the count
-    while len(data) < count:
+    stopper=0
+    while len(data) < count and stopper<15:
         print("Adding to data...")
         # add length of data to the query and request again
         loadsPayload['variables']['offset_num'] = len(data)
         q = json.loads(session.post('https://loadsearch-graphql-api-prod.truckstop.com/v1/graphql?loadSearchCountQuery', headers=authHeaders, json=loadsPayload).text)
         data = data + q[list(q)[0]][list(q[list(q)[0]])[0]]
+        stopper+=1
         
     return data
 
@@ -276,12 +279,14 @@ def getTruckstopLoads2(session,inputs2,token):
     data = q[list(q)[0]][list(q[list(q)[0]])[0]]
     
     # Continue getting additional loads until they match the count
-    while len(data) < count:
+    stopper=0
+    while len(data) < count and stopper<15:
         print("Adding to data...")
         # add length of data to the query and request again
         loadsPayload['variables']['offset_num'] = len(data)
         q = json.loads(session.post('https://loadsearch-graphql-api-prod.truckstop.com/v1/graphql?loadSearchCountQuery', headers=authHeaders, json=loadsPayload).text)
         data = data + q[list(q)[0]][list(q[list(q)[0]])[0]]
+        stopper+=1
         
     return data
 
@@ -382,14 +387,16 @@ def getNextPossibleLegs(df,coords,inputs,itinerary):
     tempLoads['originCoords'] = [coords[loc] for loc in tempLoads['originCityState']]
     tempLoads['destinationCoords'] = [coords[loc] for loc in tempLoads['destinationCityState']]
     
-    tempLoads['netRate'] = tempLoads['postedRate']-(tempLoads['totalDistance']*(inputs['diesel']/inputs['MPG_load']+inputs['maintCostPerMile']))
-    tempLoads['netRatePerHour'] = tempLoads['netRate']/(tempLoads['minTime']+tempLoads['nextDayTime'])
+    tempLoads['driverPay'] = inputs['driverPayPerHour']*(tempLoads['minTime']+tempLoads['nextDayTime'])
+    tempLoads['netRate'] = tempLoads['postedRate']-(tempLoads['totalDistance']*(inputs['diesel']/inputs['MPG_load']+inputs['maintCostPerMile']))-tempLoads['driverPay']
+    tempLoads['netRatePerHour'] = (tempLoads['netRate']+tempLoads['driverPay'])/(tempLoads['minTime']+tempLoads['nextDayTime'])
 
     
-    tempLoads = tempLoads.sort_values(by=['netRatePerHour'],ascending=False)
+    tempLoads = tempLoads.sort_values(by=['netRate'],ascending=False)
     tempLoads.reset_index(drop=True,inplace=True)
         
     possibleLoads = tempLoads.to_dict('records')
+
     return possibleLoads
 
 def getNextPossibleLegs2(df,coords,inputs2,itinerary):
@@ -445,11 +452,12 @@ def getNextPossibleLegs2(df,coords,inputs2,itinerary):
     tempLoads['originCoords'] = [coords[loc] for loc in tempLoads['originCityState']]
     tempLoads['destinationCoords'] = [coords[loc] for loc in tempLoads['destinationCityState']]
     
-    tempLoads['netRate'] = tempLoads['postedRate']-(tempLoads['totalDistance']*(inputs2['diesel']/inputs2['MPG_load']+inputs2['maintCostPerMile']))
-    tempLoads['netRatePerHour'] = tempLoads['netRate']/(tempLoads['minTime']+tempLoads['nextDayTime'])
+    tempLoads['driverPay'] = inputs2['driverPayPerHour']*(tempLoads['minTime']+tempLoads['nextDayTime'])
+    tempLoads['netRate'] = tempLoads['postedRate']-(tempLoads['totalDistance']*(inputs2['diesel']/inputs2['MPG_load']+inputs2['maintCostPerMile']))-tempLoads['driverPay']
+    tempLoads['netRatePerHour'] = (tempLoads['netRate']+tempLoads['driverPay'])/(tempLoads['minTime']+tempLoads['nextDayTime'])
 
     
-    tempLoads = tempLoads.sort_values(by=['netRatePerHour'],ascending=False)
+    tempLoads = tempLoads.sort_values(by=['netRate'],ascending=False)
     tempLoads.reset_index(drop=True,inplace=True)
         
     possibleLoads = tempLoads.to_dict('records')
@@ -477,6 +485,7 @@ def loadToItinerary(dfRow):
         'loadTime': dfRow['loadTime'],
         'unloadTime': dfRow['unloadTime'],
         'nextDayDelivery': dfRow['nextDayDelivery'],
+        'driverPay': dfRow['driverPay'],
         'netRate': dfRow['netRate'],
         'netRatePerHour': dfRow['netRatePerHour']
     }
@@ -571,8 +580,9 @@ def getTripStats(client,finalTrips,inputs):
         
         
         trip['gasCost'] = (calcLoadedMiles/inputs['MPG_load'] + (trip['calcDistance']-calcLoadedMiles)/inputs['MPG_empty'])*inputs['diesel']
-        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost']
-        trip['netRatePerHour'] = trip['netRate']/trip['calcTime']
+        trip['driverPay'] = inputs['driverPayPerHour']*trip['calcTime']
+        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost'] - trip['driverPay']
+        trip['netRatePerHour'] = (trip['netRate']+trip['driverPay'])/trip['calcTime']
         
         # trip['itinerary'] = tripDF
         
@@ -654,9 +664,9 @@ def getTripStats2(client,extendedTripItinerary,inputs2):
         
         
         trip['gasCost'] = (calcLoadedMiles/inputs2['MPG_load'] + (trip['calcDistance']-calcLoadedMiles)/inputs2['MPG_empty'])*inputs2['diesel']
-    
-        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost']
-        trip['netRatePerHour'] = trip['netRate']/trip['calcTime']
+        trip['driverPay'] = inputs2['driverPayPerHour']*trip['calcTime']
+        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost'] - trip['driverPay']
+        trip['netRatePerHour'] = (trip['netRate']+trip['driverPay'])/trip['calcTime']
         
         # trip['itinerary'] = tripDF
         
@@ -971,8 +981,9 @@ def getTripStatsFast(finalTrips,inputs):
         
         
         trip['gasCost'] = (calcLoadedMiles/inputs['MPG_load'] + (trip['calcDistance']-calcLoadedMiles)/inputs['MPG_empty'])*inputs['diesel']
-        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost']
-        trip['netRatePerHour'] = trip['netRate']/trip['calcTime']
+        trip['driverPay'] = inputs['driverPayPerHour']*trip['calcTime']
+        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost'] - trip['driverPay']
+        trip['netRatePerHour'] = (trip['netRate']+trip['driverPay'])/trip['calcTime']
         
         # trip['itinerary'] = tripDF
         
@@ -1287,8 +1298,9 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
         
         
         trip['gasCost'] = (calcLoadedMiles/inputs2['MPG_load'] + (trip['calcDistance']-calcLoadedMiles)/inputs2['MPG_empty'])*inputs2['diesel']
-        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost']
-        trip['netRatePerHour'] = trip['netRate']/trip['calcTime']
+        trip['driverPay'] = inputs2['driverPayPerHour']*trip['calcTime']
+        trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost'] - trip['driverPay']
+        trip['netRatePerHour'] = (trip['netRate']+trip['driverPay'])/trip['calcTime']
         
         # trip['itinerary'] = tripDF
         

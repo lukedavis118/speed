@@ -1,17 +1,95 @@
 
 *******************************************************************
-Viewing itinerary for Trip #1 out of 1
+Viewing itinerary for Trip #1 out of 5
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-09:59 AM  -  Cleveland, GA  -  Arrive at Destination & Unload
-10:59 AM  -  Cleveland, GA  -  Deadhead to Next Load
-11:43 AM  -  Franklin, GA  -  Arrive at Origin & Load
-01:43 PM  -  Franklin, GA  -  Drive Load to Destination
-03:47 PM  -  Hoover, AL  -  Done for Day, with Load
-09:59 AM  -  Sandy Springs, GA  -  Next Day Delivery and Unload
+08:47 AM  -  Smyrna, GA  -  Arrive at Destination & Unload
+09:47 AM  -  Smyrna, GA  -  Deadhead to Next Load
+10:54 AM  -  Milner, GA  -  Arrive at Origin & Load
+12:54 PM  -  Milner, GA  -  Drive Load to Destination
+04:01 PM  -  Hoover, AL  -  Done for Day, with Load
+09:55 AM  -  Shelbyville, TN  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 120.0
- Total Rate:     $ 350.0
- Total Distance:   324.0 miles
- Net Rate/Hour:  $ 12.0
+ Business Net:   $ 463.0
+ Driver Pay:     $ 277.0
+ Total Net:      $ 740.0
+ Posted Rate:    $ 750.0
+ Total Distance:   408.0 miles
+ Net Rate/Hour:  $ 41.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #2 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:47 AM  -  Smyrna, GA  -  Arrive at Destination & Unload
+09:47 AM  -  Smyrna, GA  -  Deadhead to Next Load
+11:49 AM  -  Phenix City, AL  -  Arrive at Origin & Load
+01:49 PM  -  Phenix City, AL  -  Drive Load to Destination
+04:18 PM  -  Hoover, AL  -  Done for Day, with Load
+08:53 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 428.0
+ Driver Pay:     $ 295.0
+ Total Net:      $ 723.0
+ Posted Rate:    $ 675.0
+ Total Distance:   365.0 miles
+ Net Rate/Hour:  $ 41.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #3 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:47 AM  -  Smyrna, GA  -  Arrive at Destination & Unload
+09:47 AM  -  Smyrna, GA  -  Deadhead to Next Load
+12:29 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:29 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:38 PM  -  Hoover, AL  -  Done for Day, with Load
+10:42 AM  -  Winder, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 402.0
+ Driver Pay:     $ 193.0
+ Total Net:      $ 595.0
+ Posted Rate:    $ 650.0
+ Total Distance:   374.0 miles
+ Net Rate/Hour:  $ 38.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #4 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:47 AM  -  Smyrna, GA  -  Arrive at Destination & Unload
+09:47 AM  -  Smyrna, GA  -  Deadhead to Next Load
+12:29 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+02:29 PM  -  Birmingham, AL  -  Drive Load to Destination
+02:38 PM  -  Hoover, AL  -  Done for Day, with Load
+08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 398.0
+ Driver Pay:     $ 239.0
+ Total Net:      $ 637.0
+ Posted Rate:    $ 550.0
+ Total Distance:   243.0 miles
+ Net Rate/Hour:  $ 48.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #5 out of 5
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:47 AM  -  Smyrna, GA  -  Arrive at Destination & Unload
+09:47 AM  -  Smyrna, GA  -  Deadhead to Next Load
+10:08 AM  -  Atlanta, GA  -  Arrive at Origin & Load
+12:08 PM  -  Atlanta, GA  -  Drive Load to Destination
+02:50 PM  -  Hoover, AL  -  Done for Day, with Load
+07:51 AM  -  Tuscaloosa, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 336.0
+ Driver Pay:     $ 280.0
+ Total Net:      $ 616.0
+ Posted Rate:    $ 495.0
+ Total Distance:   223.0 miles
+ Net Rate/Hour:  $ 42.0
  ***** Central Time Zones *****

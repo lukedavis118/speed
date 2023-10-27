@@ -1,1773 +1,1235 @@
 
 *******************************************************************
-Viewing itinerary for Trip #1 out of 104
+Viewing itinerary for Trip #1 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:25 PM  -  Demopolis, AL  -  Arrive at Origin & Load
-02:25 PM  -  Demopolis, AL  -  Drive Load to Destination
-04:07 PM  -  Hoover, AL  -  Done for Day, with Load
-10:30 AM  -  Franklin, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 572.0
- Total Rate:     $ 900.0
- Distance:         494.0 miles
- Net Rate/Hour:  $ 45.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #2 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Birmingham, AL  -  Arrive at Origin & Load
-12:43 PM  -  Birmingham, AL  -  Drive Load to Destination
-12:52 PM  -  Hoover, AL  -  Done for Day, with Load
-11:04 AM  -  Hendersonville, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 568.0
- Total Rate:     $ 800.0
- Distance:         341.0 miles
- Net Rate/Hour:  $ 57.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #3 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 557.0
- Total Rate:     $ 900.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 43.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #4 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 557.0
- Total Rate:     $ 900.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 43.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #5 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 557.0
- Total Rate:     $ 900.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 43.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #6 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:25 AM  -  Tuscaloosa, AL  -  Arrive at Origin & Load
-01:25 PM  -  Tuscaloosa, AL  -  Drive Load to Destination
-02:19 PM  -  Hoover, AL  -  Done for Day, with Load
-10:10 AM  -  Stonecrest, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 551.0
- Total Rate:     $ 800.0
- Distance:         373.0 miles
- Net Rate/Hour:  $ 52.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #7 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:42 AM  -  Carrollton, AL  -  Arrive at Origin & Load
-01:42 PM  -  Carrollton, AL  -  Drive Load to Destination
-03:10 PM  -  Hoover, AL  -  Done for Day, with Load
-10:43 AM  -  Gainesville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 520.0
- Total Rate:     $ 825.0
- Distance:         453.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #8 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:11 AM  -  Fulton, MS  -  Arrive at Origin & Load
-01:11 PM  -  Fulton, MS  -  Drive Load to Destination
-03:21 PM  -  Hoover, AL  -  Done for Day, with Load
-11:05 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 517.0
- Total Rate:     $ 850.0
- Distance:         485.0 miles
- Net Rate/Hour:  $ 41.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #9 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Birmingham, AL  -  Arrive at Origin & Load
-12:43 PM  -  Birmingham, AL  -  Drive Load to Destination
-12:52 PM  -  Hoover, AL  -  Done for Day, with Load
-11:15 AM  -  Greensboro, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 509.0
- Total Rate:     $ 750.0
- Distance:         352.0 miles
- Net Rate/Hour:  $ 50.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #10 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 507.0
- Total Rate:     $ 850.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #11 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 507.0
- Total Rate:     $ 850.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #12 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 507.0
- Total Rate:     $ 850.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #13 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:12 AM  -  Sylacauga, AL  -  Arrive at Origin & Load
-01:12 PM  -  Sylacauga, AL  -  Drive Load to Destination
-01:58 PM  -  Hoover, AL  -  Done for Day, with Load
-11:31 AM  -  Friendsville, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 507.0
- Total Rate:     $ 800.0
- Distance:         431.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #14 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:25 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 506.0
- Total Rate:     $ 850.0
- Distance:         509.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #15 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:11 AM  -  Fulton, MS  -  Arrive at Origin & Load
-01:11 PM  -  Fulton, MS  -  Drive Load to Destination
-03:21 PM  -  Hoover, AL  -  Done for Day, with Load
-11:05 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 492.0
- Total Rate:     $ 825.0
- Distance:         485.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #16 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:19 AM  -  Vance, AL  -  Arrive at Origin & Load
-01:19 PM  -  Vance, AL  -  Drive Load to Destination
-01:51 PM  -  Hoover, AL  -  Done for Day, with Load
-09:40 AM  -  Union City, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 490.0
- Total Rate:     $ 700.0
- Distance:         318.0 miles
- Net Rate/Hour:  $ 51.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #17 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:42 AM  -  Carrollton, AL  -  Arrive at Origin & Load
-01:42 PM  -  Carrollton, AL  -  Drive Load to Destination
-03:10 PM  -  Hoover, AL  -  Done for Day, with Load
-10:55 AM  -  Cleveland, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 487.0
- Total Rate:     $ 800.0
- Distance:         464.0 miles
- Net Rate/Hour:  $ 40.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #18 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:42 AM  -  Carrollton, AL  -  Arrive at Origin & Load
-01:42 PM  -  Carrollton, AL  -  Drive Load to Destination
-03:10 PM  -  Hoover, AL  -  Done for Day, with Load
-10:55 AM  -  Cleveland, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 487.0
- Total Rate:     $ 800.0
- Distance:         464.0 miles
- Net Rate/Hour:  $ 40.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #19 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:42 AM  -  Carrollton, AL  -  Arrive at Origin & Load
-01:42 PM  -  Carrollton, AL  -  Drive Load to Destination
-03:10 PM  -  Hoover, AL  -  Done for Day, with Load
-10:55 AM  -  Cleveland, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 487.0
- Total Rate:     $ 800.0
- Distance:         464.0 miles
- Net Rate/Hour:  $ 40.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #20 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 482.0
- Total Rate:     $ 825.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 37.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #21 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:11 AM  -  Fulton, MS  -  Arrive at Origin & Load
-01:11 PM  -  Fulton, MS  -  Drive Load to Destination
-03:21 PM  -  Hoover, AL  -  Done for Day, with Load
-11:05 AM  -  Sweetwater, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 467.0
- Total Rate:     $ 800.0
- Distance:         485.0 miles
- Net Rate/Hour:  $ 37.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #22 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:52 AM  -  Boaz, AL  -  Arrive at Origin & Load
-11:52 AM  -  Boaz, AL  -  Drive Load to Destination
-01:14 PM  -  Hoover, AL  -  Done for Day, with Load
-11:16 AM  -  Santa Rosa Beach, FL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 461.0
- Total Rate:     $ 725.0
- Distance:         373.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #23 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 457.0
- Total Rate:     $ 800.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 35.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #24 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:23 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 457.0
- Total Rate:     $ 800.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 35.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #25 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 455.0
- Total Rate:     $ 700.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #26 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 455.0
- Total Rate:     $ 700.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #27 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 455.0
- Total Rate:     $ 700.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #28 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:26 AM  -  Chattanooga, TN  -  Arrive at Origin & Load
-12:26 PM  -  Chattanooga, TN  -  Drive Load to Destination
-03:19 PM  -  Hoover, AL  -  Done for Day, with Load
-08:57 AM  -  Opelika, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 450.0
- Total Rate:     $ 700.0
- Distance:         361.0 miles
- Net Rate/Hour:  $ 44.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #29 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:37 AM  -  Jackson, AL  -  Arrive at Origin & Load
-11:37 AM  -  Jackson, AL  -  Drive Load to Destination
-02:33 PM  -  Hoover, AL  -  Done for Day, with Load
-09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 447.0
- Total Rate:     $ 675.0
- Distance:         321.0 miles
- Net Rate/Hour:  $ 46.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #30 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Birmingham, AL  -  Arrive at Origin & Load
-12:43 PM  -  Birmingham, AL  -  Drive Load to Destination
-12:52 PM  -  Hoover, AL  -  Done for Day, with Load
-10:23 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 435.0
- Total Rate:     $ 640.0
- Distance:         303.0 miles
- Net Rate/Hour:  $ 47.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #31 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:53 AM  -  Aliceville, AL  -  Arrive at Origin & Load
-01:53 PM  -  Aliceville, AL  -  Drive Load to Destination
-03:27 PM  -  Hoover, AL  -  Done for Day, with Load
-11:25 AM  -  Eastanollee, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 431.0
- Total Rate:     $ 775.0
- Distance:         509.0 miles
- Net Rate/Hour:  $ 33.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #32 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:25 PM  -  Demopolis, AL  -  Arrive at Origin & Load
-02:25 PM  -  Demopolis, AL  -  Drive Load to Destination
-04:07 PM  -  Hoover, AL  -  Done for Day, with Load
-10:18 AM  -  Conyers, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 430.0
- Total Rate:     $ 750.0
- Distance:         483.0 miles
- Net Rate/Hour:  $ 34.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #33 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Birmingham, AL  -  Arrive at Origin & Load
-12:43 PM  -  Birmingham, AL  -  Drive Load to Destination
-12:52 PM  -  Hoover, AL  -  Done for Day, with Load
-08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 428.0
- Total Rate:     $ 550.0
- Distance:         189.0 miles
- Net Rate/Hour:  $ 58.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #34 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:44 PM  -  Hoover, AL  -  Done for Day, with Load
-09:39 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 406.0
- Total Rate:     $ 650.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #35 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 405.0
- Total Rate:     $ 650.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #36 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 405.0
- Total Rate:     $ 650.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #37 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 405.0
- Total Rate:     $ 650.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #38 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:10 PM  -  Prattville, AL  -  Arrive at Origin & Load
-02:10 PM  -  Prattville, AL  -  Drive Load to Destination
-03:33 PM  -  Hoover, AL  -  Done for Day, with Load
-10:19 AM  -  Cumming, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 400.0
- Total Rate:     $ 700.0
- Distance:         452.0 miles
- Net Rate/Hour:  $ 34.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #39 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:12 AM  -  Corinth, MS  -  Arrive at Origin & Load
-01:12 PM  -  Corinth, MS  -  Drive Load to Destination
-04:06 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 397.0
- Total Rate:     $ 700.0
- Distance:         444.0 miles
- Net Rate/Hour:  $ 34.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #40 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:30 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:30 PM  -  Jasper, AL  -  Drive Load to Destination
-01:15 PM  -  Hoover, AL  -  Done for Day, with Load
-08:49 AM  -  Lafayette, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 393.0
- Total Rate:     $ 550.0
- Distance:         235.0 miles
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:13 PM  -  Prattville, AL  -  Arrive at Origin & Load
+02:13 PM  -  Prattville, AL  -  Drive Load to Destination
+03:37 PM  -  Hoover, AL  -  Done for Day, with Load
+09:47 AM  -  Smyrna, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 255.0
+ Driver Pay:     $ 277.0
+ Total Net:      $ 532.0
+ Posted Rate:    $ 800.0
+ Distance:         405.0 miles
  Net Rate/Hour:  $ 48.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #41 out of 104
+Viewing itinerary for Trip #2 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Birmingham, AL  -  Arrive at Origin & Load
-12:43 PM  -  Birmingham, AL  -  Drive Load to Destination
-12:52 PM  -  Hoover, AL  -  Done for Day, with Load
-10:30 AM  -  Franklin, TN  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:32 AM  -  South Pittsburg, TN  -  Arrive at Origin & Load
+12:32 PM  -  South Pittsburg, TN  -  Drive Load to Destination
+03:07 PM  -  Hoover, AL  -  Done for Day, with Load
+11:00 AM  -  Eatonton, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 391.0
- Total Rate:     $ 600.0
- Distance:         309.0 miles
- Net Rate/Hour:  $ 42.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #42 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:17 PM  -  Hoover, AL  -  Done for Day, with Load
-09:34 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 391.0
- Total Rate:     $ 625.0
- Distance:         337.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #43 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:19 PM  -  Hoover, AL  -  Done for Day, with Load
-09:35 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 389.0
- Total Rate:     $ 625.0
- Distance:         339.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #44 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:19 PM  -  Hoover, AL  -  Done for Day, with Load
-09:35 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 389.0
- Total Rate:     $ 625.0
- Distance:         339.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #45 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Birmingham, AL  -  Arrive at Origin & Load
-12:43 PM  -  Birmingham, AL  -  Drive Load to Destination
-12:52 PM  -  Hoover, AL  -  Done for Day, with Load
-10:44 AM  -  Winder, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 381.0
- Total Rate:     $ 600.0
- Distance:         323.0 miles
- Net Rate/Hour:  $ 39.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #46 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 380.0
- Total Rate:     $ 625.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 36.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #47 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 380.0
- Total Rate:     $ 625.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 36.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #48 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:17 PM  -  Hoover, AL  -  Done for Day, with Load
-09:34 AM  -  Adairsville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 366.0
- Total Rate:     $ 600.0
- Distance:         337.0 miles
- Net Rate/Hour:  $ 37.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #49 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:57 AM  -  Hoover, AL  -  Arrive at Origin & Load
-12:57 PM  -  Hoover, AL  -  Drive Load to Destination
-12:59 PM  -  Hoover, AL  -  Done for Day, with Load
-08:51 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 356.0
- Total Rate:     $ 500.0
- Distance:         222.0 miles
+ Business Net:   $ 241.0
+ Driver Pay:     $ 295.0
+ Total Net:      $ 536.0
+ Posted Rate:    $ 850.0
+ Distance:         445.0 miles
  Net Rate/Hour:  $ 45.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #50 out of 104
+Viewing itinerary for Trip #3 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:45 PM  -  Hoover, AL  -  Done for Day, with Load
-09:38 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 355.0
- Total Rate:     $ 600.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 34.0
+ Business Net:   $ 223.0
+ Driver Pay:     $ 193.0
+ Total Net:      $ 416.0
+ Posted Rate:    $ 550.0
+ Distance:         212.0 miles
+ Net Rate/Hour:  $ 54.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #51 out of 104
+Viewing itinerary for Trip #4 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-09:07 AM  -  Muscle Shoals, AL  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:49 AM  -  Jasper, AL  -  Arrive at Origin & Load
+01:49 PM  -  Jasper, AL  -  Drive Load to Destination
+02:36 PM  -  Hoover, AL  -  Done for Day, with Load
+09:16 AM  -  Rome, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 350.0
- Total Rate:     $ 625.0
- Distance:         419.0 miles
- Net Rate/Hour:  $ 31.0
+ Business Net:   $ 203.0
+ Driver Pay:     $ 239.0
+ Total Net:      $ 442.0
+ Posted Rate:    $ 650.0
+ Distance:         317.0 miles
+ Net Rate/Hour:  $ 46.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #52 out of 104
+Viewing itinerary for Trip #5 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:41 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
-12:41 PM  -  Eastaboga, AL  -  Drive Load to Destination
-01:42 PM  -  Hoover, AL  -  Done for Day, with Load
-08:19 AM  -  Winfield, AL  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:13 PM  -  Prattville, AL  -  Arrive at Origin & Load
+02:13 PM  -  Prattville, AL  -  Drive Load to Destination
+03:37 PM  -  Hoover, AL  -  Done for Day, with Load
+09:53 AM  -  Atlanta, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 347.0
- Total Rate:     $ 500.0
- Distance:         232.0 miles
+ Business Net:   $ 198.0
+ Driver Pay:     $ 280.0
+ Total Net:      $ 478.0
+ Posted Rate:    $ 750.0
+ Distance:         410.0 miles
  Net Rate/Hour:  $ 43.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #53 out of 104
+Viewing itinerary for Trip #6 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:10 PM  -  Hoover, AL  -  Done for Day, with Load
-10:00 AM  -  Roswell, GA  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:49 AM  -  Jasper, AL  -  Arrive at Origin & Load
+01:49 PM  -  Jasper, AL  -  Drive Load to Destination
+02:35 PM  -  Hoover, AL  -  Done for Day, with Load
+09:12 AM  -  Rome, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 341.0
- Total Rate:     $ 550.0
- Distance:         297.0 miles
- Net Rate/Hour:  $ 37.0
+ Business Net:   $ 184.0
+ Driver Pay:     $ 237.0
+ Total Net:      $ 421.0
+ Posted Rate:    $ 625.0
+ Distance:         312.0 miles
+ Net Rate/Hour:  $ 44.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #54 out of 104
+Viewing itinerary for Trip #7 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:41 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
-12:41 PM  -  Eastaboga, AL  -  Drive Load to Destination
-01:42 PM  -  Hoover, AL  -  Done for Day, with Load
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:23 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 180.0
+ Driver Pay:     $ 243.0
+ Total Net:      $ 423.0
+ Posted Rate:    $ 640.0
+ Distance:         325.0 miles
+ Net Rate/Hour:  $ 44.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #8 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:27 PM  -  Tuscaloosa, AL  -  Arrive at Origin & Load
+02:27 PM  -  Tuscaloosa, AL  -  Drive Load to Destination
+03:22 PM  -  Hoover, AL  -  Done for Day, with Load
+09:50 AM  -  Dalton, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 170.0
+ Driver Pay:     $ 272.0
+ Total Net:      $ 442.0
+ Posted Rate:    $ 700.0
+ Distance:         393.0 miles
+ Net Rate/Hour:  $ 41.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #9 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:42 AM  -  Winder, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 169.0
+ Driver Pay:     $ 251.0
+ Total Net:      $ 420.0
+ Posted Rate:    $ 650.0
+ Distance:         343.0 miles
+ Net Rate/Hour:  $ 42.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #10 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:44 AM  -  Winder, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 167.0
+ Driver Pay:     $ 251.0
+ Total Net:      $ 418.0
+ Posted Rate:    $ 650.0
+ Distance:         345.0 miles
+ Net Rate/Hour:  $ 42.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #11 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:44 AM  -  Winder, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 167.0
+ Driver Pay:     $ 251.0
+ Total Net:      $ 418.0
+ Posted Rate:    $ 650.0
+ Distance:         345.0 miles
+ Net Rate/Hour:  $ 42.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #12 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:39 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
+12:39 PM  -  Eastaboga, AL  -  Drive Load to Destination
+01:39 PM  -  Hoover, AL  -  Done for Day, with Load
 08:40 AM  -  Hamilton, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 332.0
- Total Rate:     $ 500.0
- Distance:         252.0 miles
+ Business Net:   $ 145.0
+ Driver Pay:     $ 200.0
+ Total Net:      $ 345.0
+ Posted Rate:    $ 500.0
+ Distance:         229.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #13 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:39 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
+12:39 PM  -  Eastaboga, AL  -  Drive Load to Destination
+01:39 PM  -  Hoover, AL  -  Done for Day, with Load
+08:40 AM  -  Hamilton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 145.0
+ Driver Pay:     $ 200.0
+ Total Net:      $ 345.0
+ Posted Rate:    $ 500.0
+ Distance:         229.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #14 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:39 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
+12:39 PM  -  Eastaboga, AL  -  Drive Load to Destination
+01:40 PM  -  Hoover, AL  -  Done for Day, with Load
+08:40 AM  -  Hamilton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 145.0
+ Driver Pay:     $ 201.0
+ Total Net:      $ 346.0
+ Posted Rate:    $ 500.0
+ Distance:         229.0 miles
+ Net Rate/Hour:  $ 43.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #15 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 142.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 396.0
+ Posted Rate:    $ 640.0
+ Distance:         350.0 miles
  Net Rate/Hour:  $ 39.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #55 out of 104
+Viewing itinerary for Trip #16 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:37 AM  -  Jackson, AL  -  Arrive at Origin & Load
-11:37 AM  -  Jackson, AL  -  Drive Load to Destination
-02:33 PM  -  Hoover, AL  -  Done for Day, with Load
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
 09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 332.0
- Total Rate:     $ 560.0
- Distance:         321.0 miles
- Net Rate/Hour:  $ 34.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #56 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:30 AM  -  Gordo, AL  -  Arrive at Origin & Load
-01:30 PM  -  Gordo, AL  -  Drive Load to Destination
-02:44 PM  -  Hoover, AL  -  Done for Day, with Load
-09:39 AM  -  Calhoun, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 331.0
- Total Rate:     $ 575.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 32.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #57 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-09:07 AM  -  Muscle Shoals, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 325.0
- Total Rate:     $ 600.0
- Distance:         419.0 miles
- Net Rate/Hour:  $ 29.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #58 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-09:07 AM  -  Muscle Shoals, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 325.0
- Total Rate:     $ 600.0
- Distance:         419.0 miles
- Net Rate/Hour:  $ 29.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #59 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:37 AM  -  Jackson, AL  -  Arrive at Origin & Load
-11:37 AM  -  Jackson, AL  -  Drive Load to Destination
-02:33 PM  -  Hoover, AL  -  Done for Day, with Load
-09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 322.0
- Total Rate:     $ 550.0
- Distance:         321.0 miles
- Net Rate/Hour:  $ 33.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #60 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:37 AM  -  Jackson, AL  -  Arrive at Origin & Load
-11:37 AM  -  Jackson, AL  -  Drive Load to Destination
-02:33 PM  -  Hoover, AL  -  Done for Day, with Load
-09:05 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 320.0
- Total Rate:     $ 550.0
- Distance:         324.0 miles
- Net Rate/Hour:  $ 33.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #61 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:10 PM  -  Hoover, AL  -  Done for Day, with Load
-09:59 AM  -  Roswell, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 316.0
- Total Rate:     $ 525.0
- Distance:         297.0 miles
- Net Rate/Hour:  $ 34.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #62 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-08:55 AM  -  Leighton, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 308.0
- Total Rate:     $ 575.0
- Distance:         408.0 miles
- Net Rate/Hour:  $ 28.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #63 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:19 PM  -  Montgomery, AL  -  Arrive at Origin & Load
-02:19 PM  -  Montgomery, AL  -  Drive Load to Destination
-03:54 PM  -  Hoover, AL  -  Done for Day, with Load
-08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 307.0
- Total Rate:     $ 540.0
- Distance:         362.0 miles
- Net Rate/Hour:  $ 30.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #64 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:25 AM  -  Tuscaloosa, AL  -  Arrive at Origin & Load
-01:25 PM  -  Tuscaloosa, AL  -  Drive Load to Destination
-02:18 PM  -  Hoover, AL  -  Done for Day, with Load
-08:51 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 306.0
- Total Rate:     $ 500.0
- Distance:         297.0 miles
- Net Rate/Hour:  $ 33.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #65 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Columbus, MS  -  Arrive at Origin & Load
-01:44 PM  -  Columbus, MS  -  Drive Load to Destination
-03:43 PM  -  Hoover, AL  -  Done for Day, with Load
-11:08 AM  -  Freeport, FL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 306.0
- Total Rate:     $ 650.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 24.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #66 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:10 PM  -  Hoover, AL  -  Done for Day, with Load
-08:27 AM  -  Guin, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 304.0
- Total Rate:     $ 450.0
- Distance:         210.0 miles
- Net Rate/Hour:  $ 40.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #67 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-09:07 AM  -  Muscle Shoals, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 300.0
- Total Rate:     $ 575.0
- Distance:         419.0 miles
- Net Rate/Hour:  $ 26.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #68 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Maplesville, AL  -  Arrive at Origin & Load
-01:44 PM  -  Maplesville, AL  -  Drive Load to Destination
-02:36 PM  -  Hoover, AL  -  Done for Day, with Load
-07:40 AM  -  Oakman, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 297.0
- Total Rate:     $ 450.0
- Distance:         246.0 miles
- Net Rate/Hour:  $ 36.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #69 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Maplesville, AL  -  Arrive at Origin & Load
-01:44 PM  -  Maplesville, AL  -  Drive Load to Destination
-02:36 PM  -  Hoover, AL  -  Done for Day, with Load
-08:55 AM  -  Leighton, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 294.0
- Total Rate:     $ 500.0
- Distance:         318.0 miles
- Net Rate/Hour:  $ 31.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #70 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Maplesville, AL  -  Arrive at Origin & Load
-01:44 PM  -  Maplesville, AL  -  Drive Load to Destination
-02:36 PM  -  Hoover, AL  -  Done for Day, with Load
-08:57 AM  -  Leighton, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 287.0
- Total Rate:     $ 495.0
- Distance:         320.0 miles
- Net Rate/Hour:  $ 30.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #71 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:30 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:30 PM  -  Jasper, AL  -  Drive Load to Destination
-01:15 PM  -  Hoover, AL  -  Done for Day, with Load
-10:50 AM  -  Sparta, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 284.0
- Total Rate:     $ 525.0
+ Business Net:   $ 142.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 396.0
+ Posted Rate:    $ 640.0
  Distance:         350.0 miles
- Net Rate/Hour:  $ 28.0
+ Net Rate/Hour:  $ 39.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #72 out of 104
+Viewing itinerary for Trip #17 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:17 PM  -  Hoover, AL  -  Done for Day, with Load
-10:40 AM  -  Social Circle, GA  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 283.0
- Total Rate:     $ 525.0
- Distance:         342.0 miles
- Net Rate/Hour:  $ 28.0
+ Business Net:   $ 142.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 396.0
+ Posted Rate:    $ 640.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 39.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #73 out of 104
+Viewing itinerary for Trip #18 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:19 PM  -  Hoover, AL  -  Done for Day, with Load
-11:01 AM  -  Ashland City, TN  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:24 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 280.0
- Total Rate:     $ 575.0
- Distance:         421.0 miles
- Net Rate/Hour:  $ 25.0
+ Business Net:   $ 139.0
+ Driver Pay:     $ 243.0
+ Total Net:      $ 382.0
+ Posted Rate:    $ 600.0
+ Distance:         326.0 miles
+ Net Rate/Hour:  $ 39.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #74 out of 104
+Viewing itinerary for Trip #19 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:30 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:30 PM  -  Jasper, AL  -  Drive Load to Destination
-01:15 PM  -  Gordo, AL  -  Arrive at Destination & Unload
-02:15 PM  -  Gordo, AL  -  Head Home
-03:31 PM  -  Hoover, AL  -  Done for Day, Empty
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:28 AM  -  Loganville, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 278.0
- Total Rate:     $ 400.0
- Distance:         203.0 miles
+ Business Net:   $ 135.0
+ Driver Pay:     $ 244.0
+ Total Net:      $ 379.0
+ Posted Rate:    $ 600.0
+ Distance:         329.0 miles
+ Net Rate/Hour:  $ 39.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #20 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:15 PM  -  Montgomery, AL  -  Arrive at Origin & Load
+02:15 PM  -  Montgomery, AL  -  Drive Load to Destination
+03:50 PM  -  Hoover, AL  -  Done for Day, with Load
+09:53 AM  -  Atlanta, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 133.0
+ Driver Pay:     $ 286.0
+ Total Net:      $ 419.0
+ Posted Rate:    $ 700.0
+ Distance:         423.0 miles
  Net Rate/Hour:  $ 37.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #75 out of 104
+Viewing itinerary for Trip #21 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-08:27 AM  -  Guin, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 277.0
- Total Rate:     $ 525.0
- Distance:         382.0 miles
- Net Rate/Hour:  $ 26.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #76 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:01 AM  -  Altoona, AL  -  Arrive at Origin & Load
-12:01 PM  -  Altoona, AL  -  Drive Load to Destination
-01:04 PM  -  Hoover, AL  -  Done for Day, with Load
-10:30 AM  -  Covington, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 276.0
- Total Rate:     $ 500.0
- Distance:         321.0 miles
- Net Rate/Hour:  $ 29.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #77 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:19 PM  -  Hoover, AL  -  Done for Day, with Load
-09:37 AM  -  Belden, MS  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 263.0
- Total Rate:     $ 500.0
- Distance:         341.0 miles
- Net Rate/Hour:  $ 26.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #78 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:41 AM  -  Eastaboga, AL  -  Arrive at Origin & Load
-12:41 PM  -  Eastaboga, AL  -  Drive Load to Destination
-01:41 PM  -  Hoover, AL  -  Done for Day, with Load
-10:23 AM  -  Lawrenceville, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 261.0
- Total Rate:     $ 500.0
- Distance:         350.0 miles
- Net Rate/Hour:  $ 26.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #79 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Columbus, MS  -  Arrive at Origin & Load
-01:44 PM  -  Columbus, MS  -  Drive Load to Destination
-03:35 PM  -  Hoover, AL  -  Done for Day, with Load
-11:08 AM  -  Freeport, FL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 261.0
- Total Rate:     $ 600.0
- Distance:         501.0 miles
- Net Rate/Hour:  $ 20.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #80 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-10:40 AM  -  Morganton, GA  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 260.0
- Total Rate:     $ 600.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 20.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #81 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:52 AM  -  Pickensville, AL  -  Arrive at Origin & Load
-01:52 PM  -  Pickensville, AL  -  Drive Load to Destination
-03:32 PM  -  Hoover, AL  -  Done for Day, with Load
-08:51 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 259.0
- Total Rate:     $ 500.0
- Distance:         368.0 miles
- Net Rate/Hour:  $ 25.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #82 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:52 AM  -  Boaz, AL  -  Arrive at Origin & Load
-11:52 AM  -  Boaz, AL  -  Drive Load to Destination
-01:14 PM  -  Birmingham, AL  -  Arrive at Destination & Unload
-02:14 PM  -  Birmingham, AL  -  Head Home
-02:23 PM  -  Hoover, AL  -  Done for Day, Empty
-*******************************************************************
- Net Rate:       $ 259.0
- Total Rate:     $ 350.0
- Distance:         139.0 miles
- Net Rate/Hour:  $ 40.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #83 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:52 AM  -  Boaz, AL  -  Arrive at Origin & Load
-11:52 AM  -  Boaz, AL  -  Drive Load to Destination
-01:14 PM  -  Birmingham, AL  -  Arrive at Destination & Unload
-02:14 PM  -  Birmingham, AL  -  Head Home
-02:27 PM  -  Hoover, AL  -  Done for Day, Empty
-*******************************************************************
- Net Rate:       $ 257.0
- Total Rate:     $ 350.0
- Distance:         142.0 miles
- Net Rate/Hour:  $ 40.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #84 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:15 AM  -  Booneville, MS  -  Arrive at Origin & Load
-01:15 PM  -  Booneville, MS  -  Drive Load to Destination
-03:53 PM  -  Hoover, AL  -  Done for Day, with Load
-10:49 AM  -  Nashville, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 257.0
- Total Rate:     $ 600.0
- Distance:         500.0 miles
- Net Rate/Hour:  $ 20.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #85 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Columbus, MS  -  Arrive at Origin & Load
-01:44 PM  -  Columbus, MS  -  Drive Load to Destination
-03:35 PM  -  Hoover, AL  -  Done for Day, with Load
-08:51 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 256.0
- Total Rate:     $ 500.0
- Distance:         370.0 miles
- Net Rate/Hour:  $ 24.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #86 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:44 AM  -  Columbus, MS  -  Arrive at Origin & Load
-01:44 PM  -  Columbus, MS  -  Drive Load to Destination
-03:43 PM  -  Hoover, AL  -  Done for Day, with Load
-11:08 AM  -  Freeport, FL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 256.0
- Total Rate:     $ 600.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 20.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #87 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:12 AM  -  Muscle Shoals, AL  -  Arrive at Origin & Load
-12:12 PM  -  Muscle Shoals, AL  -  Drive Load to Destination
-02:19 PM  -  Hoover, AL  -  Done for Day, with Load
-11:01 AM  -  Ashland City, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 255.0
- Total Rate:     $ 550.0
- Distance:         421.0 miles
- Net Rate/Hour:  $ 22.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #88 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:37 AM  -  Jackson, AL  -  Arrive at Origin & Load
-11:37 AM  -  Jackson, AL  -  Drive Load to Destination
-02:33 PM  -  Hoover, AL  -  Done for Day, with Load
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
 09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 247.0
- Total Rate:     $ 475.0
+ Business Net:   $ 132.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 386.0
+ Posted Rate:    $ 630.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 38.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #22 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+09:40 AM  -  Cedartown, GA  -  Arrive at Origin & Load
+11:40 AM  -  Cedartown, GA  -  Drive Load to Destination
+01:40 PM  -  Hoover, AL  -  Done for Day, with Load
+11:02 AM  -  Commerce, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 127.0
+ Driver Pay:     $ 260.0
+ Total Net:      $ 387.0
+ Posted Rate:    $ 650.0
+ Distance:         365.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #23 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+09:40 AM  -  Cedartown, GA  -  Arrive at Origin & Load
+11:40 AM  -  Cedartown, GA  -  Drive Load to Destination
+01:40 PM  -  Hoover, AL  -  Done for Day, with Load
+11:02 AM  -  Commerce, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 127.0
+ Driver Pay:     $ 260.0
+ Total Net:      $ 387.0
+ Posted Rate:    $ 650.0
+ Distance:         365.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #24 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 127.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 381.0
+ Posted Rate:    $ 625.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #25 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:05 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 123.0
+ Driver Pay:     $ 255.0
+ Total Net:      $ 378.0
+ Posted Rate:    $ 625.0
+ Distance:         353.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #26 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:13 PM  -  Prattville, AL  -  Arrive at Origin & Load
+02:13 PM  -  Prattville, AL  -  Drive Load to Destination
+03:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:19 AM  -  Cumming, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 119.0
+ Driver Pay:     $ 291.0
+ Total Net:      $ 410.0
+ Posted Rate:    $ 700.0
+ Distance:         435.0 miles
+ Net Rate/Hour:  $ 35.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #27 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:28 AM  -  Birmingham, AL  -  Arrive at Origin & Load
+01:28 PM  -  Birmingham, AL  -  Drive Load to Destination
+01:37 PM  -  Hoover, AL  -  Done for Day, with Load
+10:44 AM  -  Winder, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 117.0
+ Driver Pay:     $ 251.0
+ Total Net:      $ 368.0
+ Posted Rate:    $ 600.0
+ Distance:         345.0 miles
+ Net Rate/Hour:  $ 37.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #28 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 112.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 366.0
+ Posted Rate:    $ 610.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 36.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #29 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 102.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 356.0
+ Posted Rate:    $ 600.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 35.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #30 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 102.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 356.0
+ Posted Rate:    $ 600.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 35.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #31 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:32 PM  -  Hoover, AL  -  Done for Day, with Load
+09:07 AM  -  Sheffield, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 98.0
+ Driver Pay:     $ 259.0
+ Total Net:      $ 357.0
+ Posted Rate:    $ 600.0
+ Distance:         362.0 miles
+ Net Rate/Hour:  $ 35.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #32 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:27 AM  -  Atlanta, GA  -  Arrive at Origin & Load
+12:27 PM  -  Atlanta, GA  -  Drive Load to Destination
+03:09 PM  -  Hoover, AL  -  Done for Day, with Load
+07:51 AM  -  Tuscaloosa, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 93.0
+ Driver Pay:     $ 217.0
+ Total Net:      $ 310.0
+ Posted Rate:    $ 495.0
+ Distance:         268.0 miles
+ Net Rate/Hour:  $ 36.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #33 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:31 AM  -  Albertville, AL  -  Arrive at Origin & Load
+12:31 PM  -  Albertville, AL  -  Drive Load to Destination
+01:55 PM  -  Hoover, AL  -  Done for Day, with Load
+08:27 AM  -  Guin, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 90.0
+ Driver Pay:     $ 202.0
+ Total Net:      $ 292.0
+ Posted Rate:    $ 450.0
+ Distance:         232.0 miles
+ Net Rate/Hour:  $ 36.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #34 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:31 AM  -  Albertville, AL  -  Arrive at Origin & Load
+12:31 PM  -  Albertville, AL  -  Drive Load to Destination
+01:55 PM  -  Hoover, AL  -  Done for Day, with Load
+10:00 AM  -  Roswell, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 88.0
+ Driver Pay:     $ 240.0
+ Total Net:      $ 328.0
+ Posted Rate:    $ 550.0
+ Distance:         320.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #35 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:32 PM  -  Hoover, AL  -  Done for Day, with Load
+08:55 AM  -  Leighton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 87.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 341.0
+ Posted Rate:    $ 575.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #36 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:32 PM  -  Hoover, AL  -  Done for Day, with Load
+08:55 AM  -  Leighton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 87.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 341.0
+ Posted Rate:    $ 575.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 34.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #37 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:35 PM  -  Hoover, AL  -  Done for Day, with Load
+08:57 AM  -  Leighton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 81.0
+ Driver Pay:     $ 256.0
+ Total Net:      $ 337.0
+ Posted Rate:    $ 575.0
+ Distance:         355.0 miles
+ Net Rate/Hour:  $ 33.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #38 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 77.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 331.0
+ Posted Rate:    $ 575.0
+ Distance:         350.0 miles
+ Net Rate/Hour:  $ 33.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #39 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:32 PM  -  Hoover, AL  -  Done for Day, with Load
+09:07 AM  -  Muscle Shoals, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 74.0
+ Driver Pay:     $ 258.0
+ Total Net:      $ 332.0
+ Posted Rate:    $ 575.0
+ Distance:         361.0 miles
+ Net Rate/Hour:  $ 32.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #40 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:35 PM  -  Hoover, AL  -  Done for Day, with Load
+09:05 AM  -  Muscle Shoals, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 73.0
+ Driver Pay:     $ 259.0
+ Total Net:      $ 332.0
+ Posted Rate:    $ 575.0
+ Distance:         363.0 miles
+ Net Rate/Hour:  $ 32.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #41 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:15 PM  -  Montgomery, AL  -  Arrive at Origin & Load
+02:15 PM  -  Montgomery, AL  -  Drive Load to Destination
+03:50 PM  -  Hoover, AL  -  Done for Day, with Load
+08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 72.0
+ Driver Pay:     $ 248.0
+ Total Net:      $ 320.0
+ Posted Rate:    $ 540.0
+ Distance:         338.0 miles
+ Net Rate/Hour:  $ 32.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #42 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:40 AM  -  Hueytown, AL  -  Arrive at Origin & Load
+01:40 PM  -  Hueytown, AL  -  Drive Load to Destination
+01:51 PM  -  Hoover, AL  -  Done for Day, with Load
+11:21 AM  -  Jackson, MS  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 63.0
+ Driver Pay:     $ 272.0
+ Total Net:      $ 335.0
+ Posted Rate:    $ 600.0
+ Distance:         393.0 miles
+ Net Rate/Hour:  $ 31.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #43 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:09 PM  -  Maplesville, AL  -  Arrive at Origin & Load
+02:09 PM  -  Maplesville, AL  -  Drive Load to Destination
+03:01 PM  -  Hoover, AL  -  Done for Day, with Load
+08:55 AM  -  Leighton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 51.0
+ Driver Pay:     $ 241.0
+ Total Net:      $ 292.0
+ Posted Rate:    $ 500.0
  Distance:         321.0 miles
- Net Rate/Hour:  $ 26.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #89 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:10 PM  -  Hoover, AL  -  Done for Day, with Load
-09:52 AM  -  Chattanooga, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 246.0
- Total Rate:     $ 450.0
- Distance:         291.0 miles
- Net Rate/Hour:  $ 27.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #90 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:10 PM  -  Hoover, AL  -  Done for Day, with Load
-09:52 AM  -  Chattanooga, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 245.0
- Total Rate:     $ 450.0
- Distance:         291.0 miles
- Net Rate/Hour:  $ 27.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #91 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:47 AM  -  Fairfield, AL  -  Arrive at Origin & Load
-12:47 PM  -  Fairfield, AL  -  Drive Load to Destination
-12:55 PM  -  Hoover, AL  -  Done for Day, with Load
-10:31 AM  -  Murfreesboro, TN  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 239.0
- Total Rate:     $ 450.0
- Distance:         313.0 miles
- Net Rate/Hour:  $ 25.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #92 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:30 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:30 PM  -  Jasper, AL  -  Drive Load to Destination
-01:15 PM  -  Gordo, AL  -  Arrive at Destination & Unload
-02:15 PM  -  Gordo, AL  -  Head Home
-03:31 PM  -  Hoover, AL  -  Done for Day, Empty
-*******************************************************************
- Net Rate:       $ 228.0
- Total Rate:     $ 350.0
- Distance:         203.0 miles
  Net Rate/Hour:  $ 30.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #93 out of 104
+Viewing itinerary for Trip #44 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-09:46 AM  -  Albertville, AL  -  Arrive at Origin & Load
-11:46 AM  -  Albertville, AL  -  Drive Load to Destination
-01:10 PM  -  Hoover, AL  -  Done for Day, with Load
-09:26 AM  -  Fayetteville, TN  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:09 PM  -  Maplesville, AL  -  Arrive at Origin & Load
+02:09 PM  -  Maplesville, AL  -  Drive Load to Destination
+03:02 PM  -  Hoover, AL  -  Done for Day, with Load
+08:57 AM  -  Leighton, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 214.0
- Total Rate:     $ 400.0
- Distance:         266.0 miles
+ Business Net:   $ 33.0
+ Driver Pay:     $ 242.0
+ Total Net:      $ 275.0
+ Posted Rate:    $ 485.0
+ Distance:         324.0 miles
+ Net Rate/Hour:  $ 28.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #45 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+09:40 AM  -  Cedartown, GA  -  Arrive at Origin & Load
+11:40 AM  -  Cedartown, GA  -  Drive Load to Destination
+01:40 PM  -  Hoover, AL  -  Done for Day, with Load
+11:02 AM  -  Commerce, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 27.0
+ Driver Pay:     $ 260.0
+ Total Net:      $ 287.0
+ Posted Rate:    $ 550.0
+ Distance:         365.0 miles
+ Net Rate/Hour:  $ 28.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #46 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:09 PM  -  Maplesville, AL  -  Arrive at Origin & Load
+02:09 PM  -  Maplesville, AL  -  Drive Load to Destination
+03:01 PM  -  Hoover, AL  -  Done for Day, with Load
+08:55 AM  -  Leighton, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 26.0
+ Driver Pay:     $ 241.0
+ Total Net:      $ 267.0
+ Posted Rate:    $ 475.0
+ Distance:         321.0 miles
+ Net Rate/Hour:  $ 28.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #47 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:35 PM  -  Hoover, AL  -  Done for Day, with Load
+10:37 AM  -  Morganton, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 20.0
+ Driver Pay:     $ 297.0
+ Total Net:      $ 317.0
+ Posted Rate:    $ 625.0
+ Distance:         450.0 miles
+ Net Rate/Hour:  $ 27.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #48 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:41 AM  -  Altoona, AL  -  Arrive at Origin & Load
+12:41 PM  -  Altoona, AL  -  Drive Load to Destination
+01:44 PM  -  Hoover, AL  -  Done for Day, with Load
+10:30 AM  -  Covington, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 18.0
+ Driver Pay:     $ 248.0
+ Total Net:      $ 266.0
+ Posted Rate:    $ 500.0
+ Distance:         338.0 miles
+ Net Rate/Hour:  $ 27.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #49 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:13 PM  -  Prattville, AL  -  Arrive at Origin & Load
+02:13 PM  -  Prattville, AL  -  Drive Load to Destination
+03:37 PM  -  Hoover, AL  -  Done for Day, with Load
+09:36 AM  -  Fairburn, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 16.0
+ Driver Pay:     $ 273.0
+ Total Net:      $ 289.0
+ Posted Rate:    $ 550.0
+ Distance:         395.0 miles
+ Net Rate/Hour:  $ 26.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #50 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:14 AM  -  West Point, GA  -  Arrive at Origin & Load
+01:14 PM  -  West Point, GA  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+07:29 AM  -  Woodstock, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 11.0
+ Driver Pay:     $ 215.0
+ Total Net:      $ 226.0
+ Posted Rate:    $ 400.0
+ Distance:         262.0 miles
+ Net Rate/Hour:  $ 26.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #51 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:20 AM  -  Gadsden, AL  -  Arrive at Origin & Load
+12:20 PM  -  Gadsden, AL  -  Drive Load to Destination
+01:41 PM  -  Hoover, AL  -  Done for Day, with Load
+08:23 AM  -  Prattville, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 8.0
+ Driver Pay:     $ 194.0
+ Total Net:      $ 202.0
+ Posted Rate:    $ 350.0
+ Distance:         215.0 miles
+ Net Rate/Hour:  $ 26.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #52 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:32 PM  -  Hoover, AL  -  Done for Day, with Load
+07:31 AM  -  Vance, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ 5.0
+ Driver Pay:     $ 219.0
+ Total Net:      $ 224.0
+ Posted Rate:    $ 400.0
+ Distance:         270.0 miles
+ Net Rate/Hour:  $ 26.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #53 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:35 PM  -  Hoover, AL  -  Done for Day, with Load
+10:37 AM  -  Morganton, GA  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ -5.0
+ Driver Pay:     $ 297.0
+ Total Net:      $ 292.0
+ Posted Rate:    $ 600.0
+ Distance:         450.0 miles
  Net Rate/Hour:  $ 25.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #94 out of 104
+Viewing itinerary for Trip #54 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:13 PM  -  Opelika, AL  -  Arrive at Origin & Load
-02:13 PM  -  Opelika, AL  -  Drive Load to Destination
-04:11 PM  -  Hoover, AL  -  Done for Day, with Load
-10:40 AM  -  Morganton, GA  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:31 AM  -  Albertville, AL  -  Arrive at Origin & Load
+12:31 PM  -  Albertville, AL  -  Drive Load to Destination
+02:02 PM  -  Hoover, AL  -  Done for Day, with Load
+11:21 AM  -  Clarksville, TN  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 210.0
- Total Rate:     $ 550.0
- Distance:         508.0 miles
- Net Rate/Hour:  $ 16.0
+ Business Net:   $ -10.0
+ Driver Pay:     $ 277.0
+ Total Net:      $ 267.0
+ Posted Rate:    $ 550.0
+ Distance:         404.0 miles
+ Net Rate/Hour:  $ 24.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #95 out of 104
+Viewing itinerary for Trip #55 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:30 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:30 PM  -  Jasper, AL  -  Drive Load to Destination
-01:15 PM  -  Hoover, AL  -  Done for Day, with Load
-10:50 AM  -  Sparta, TN  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:30 AM  -  Jackson, AL  -  Arrive at Origin & Load
+12:30 PM  -  Jackson, AL  -  Drive Load to Destination
+03:25 PM  -  Hoover, AL  -  Done for Day, with Load
+09:02 AM  -  Tuscumbia, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 209.0
- Total Rate:     $ 450.0
+ Business Net:   $ -23.0
+ Driver Pay:     $ 254.0
+ Total Net:      $ 231.0
+ Posted Rate:    $ 475.0
  Distance:         350.0 miles
- Net Rate/Hour:  $ 21.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #96 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:43 AM  -  Leeds, AL  -  Arrive at Origin & Load
-12:43 PM  -  Leeds, AL  -  Drive Load to Destination
-01:07 PM  -  Hoover, AL  -  Done for Day, with Load
-11:02 AM  -  Mobile, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 208.0
- Total Rate:     $ 450.0
- Distance:         354.0 miles
- Net Rate/Hour:  $ 20.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #97 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:12 AM  -  Corinth, MS  -  Arrive at Origin & Load
-01:12 PM  -  Corinth, MS  -  Drive Load to Destination
-04:04 PM  -  Hoover, AL  -  Done for Day, with Load
-08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 200.0
- Total Rate:     $ 450.0
- Distance:         372.0 miles
- Net Rate/Hour:  $ 19.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #98 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-11:12 AM  -  Corinth, MS  -  Arrive at Origin & Load
-01:12 PM  -  Corinth, MS  -  Drive Load to Destination
-04:06 PM  -  Hoover, AL  -  Done for Day, with Load
-08:24 AM  -  Albertville, AL  -  Next Day Delivery and Unload
-*******************************************************************
- Net Rate:       $ 199.0
- Total Rate:     $ 450.0
- Distance:         373.0 miles
- Net Rate/Hour:  $ 19.0
- ***** Central Time Zones *****
-
-*******************************************************************
-Viewing itinerary for Trip #99 out of 104
-
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-10:30 AM  -  Jasper, AL  -  Arrive at Origin & Load
-12:30 PM  -  Jasper, AL  -  Drive Load to Destination
-01:15 PM  -  Belk, AL  -  Arrive at Destination & Unload
-02:15 PM  -  Belk, AL  -  Head Home
-03:33 PM  -  Hoover, AL  -  Done for Day, Empty
-*******************************************************************
- Net Rate:       $ 177.0
- Total Rate:     $ 300.0
- Distance:         205.0 miles
  Net Rate/Hour:  $ 23.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #100 out of 104
+Viewing itinerary for Trip #56 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:17 PM  -  Selma, AL  -  Arrive at Origin & Load
-02:17 PM  -  Selma, AL  -  Drive Load to Destination
-03:37 PM  -  Hoover, AL  -  Done for Day, with Load
-11:03 AM  -  Niceville, FL  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:34 AM  -  Opelika, AL  -  Arrive at Origin & Load
+01:34 PM  -  Opelika, AL  -  Drive Load to Destination
+03:32 PM  -  Hoover, AL  -  Done for Day, with Load
+10:40 AM  -  Morganton, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 168.0
- Total Rate:     $ 500.0
- Distance:         498.0 miles
+ Business Net:   $ -55.0
+ Driver Pay:     $ 298.0
+ Total Net:      $ 243.0
+ Posted Rate:    $ 550.0
+ Distance:         450.0 miles
+ Net Rate/Hour:  $ 20.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #57 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:49 AM  -  Jasper, AL  -  Arrive at Origin & Load
+01:49 PM  -  Jasper, AL  -  Drive Load to Destination
+02:35 PM  -  Hoover, AL  -  Done for Day, with Load
+08:17 AM  -  Belk, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ -81.0
+ Driver Pay:     $ 214.0
+ Total Net:      $ 133.0
+ Posted Rate:    $ 300.0
+ Distance:         260.0 miles
+ Net Rate/Hour:  $ 16.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #58 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:49 AM  -  Jasper, AL  -  Arrive at Origin & Load
+01:49 PM  -  Jasper, AL  -  Drive Load to Destination
+02:35 PM  -  Hoover, AL  -  Done for Day, with Load
+08:17 AM  -  Belk, AL  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ -81.0
+ Driver Pay:     $ 214.0
+ Total Net:      $ 133.0
+ Posted Rate:    $ 300.0
+ Distance:         260.0 miles
+ Net Rate/Hour:  $ 16.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #59 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+12:09 PM  -  Haleyville, AL  -  Arrive at Origin & Load
+02:09 PM  -  Haleyville, AL  -  Drive Load to Destination
+03:35 PM  -  Hoover, AL  -  Done for Day, with Load
+10:38 AM  -  Riceville, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ -101.0
+ Driver Pay:     $ 298.0
+ Total Net:      $ 197.0
+ Posted Rate:    $ 500.0
+ Distance:         452.0 miles
+ Net Rate/Hour:  $ 17.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #60 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:33 AM  -  Decatur, AL  -  Arrive at Origin & Load
+01:33 PM  -  Decatur, AL  -  Drive Load to Destination
+03:13 PM  -  Hoover, AL  -  Done for Day, with Load
+11:26 AM  -  Portland, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ -135.0
+ Driver Pay:     $ 309.0
+ Total Net:      $ 174.0
+ Posted Rate:    $ 500.0
+ Distance:         476.0 miles
+ Net Rate/Hour:  $ 14.0
+ ***** Central Time Zones *****
+
+*******************************************************************
+Viewing itinerary for Trip #61 out of 65
+
+06:00 AM  -  Hoover, AL  -  Drive Load to Destination
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:28 AM  -  Stevenson, AL  -  Arrive at Origin & Load
+12:28 PM  -  Stevenson, AL  -  Drive Load to Destination
+02:50 PM  -  Hoover, AL  -  Done for Day, with Load
+11:02 AM  -  Stanton, TN  -  Next Day Delivery and Unload
+*******************************************************************
+ Business Net:   $ -144.0
+ Driver Pay:     $ 289.0
+ Total Net:      $ 145.0
+ Posted Rate:    $ 450.0
+ Distance:         432.0 miles
  Net Rate/Hour:  $ 13.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #101 out of 104
+Viewing itinerary for Trip #62 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:17 PM  -  Selma, AL  -  Arrive at Origin & Load
-02:17 PM  -  Selma, AL  -  Drive Load to Destination
-03:37 PM  -  Hoover, AL  -  Done for Day, with Load
-08:48 AM  -  Madison, AL  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+10:27 AM  -  Atlanta, GA  -  Arrive at Origin & Load
+12:27 PM  -  Atlanta, GA  -  Drive Load to Destination
+03:20 PM  -  Hoover, AL  -  Done for Day, with Load
+09:45 AM  -  Marietta, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 162.0
- Total Rate:     $ 400.0
- Distance:         369.0 miles
- Net Rate/Hour:  $ 15.0
+ Business Net:   $ -192.0
+ Driver Pay:     $ 270.0
+ Total Net:      $ 78.0
+ Posted Rate:    $ 350.0
+ Distance:         387.0 miles
+ Net Rate/Hour:  $ 7.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #102 out of 104
+Viewing itinerary for Trip #63 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:17 PM  -  Selma, AL  -  Arrive at Origin & Load
-02:17 PM  -  Selma, AL  -  Drive Load to Destination
-03:37 PM  -  Hoover, AL  -  Done for Day, with Load
-11:03 AM  -  Niceville, FL  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:37 AM  -  Salem, AL  -  Arrive at Origin & Load
+01:37 PM  -  Salem, AL  -  Drive Load to Destination
+03:52 PM  -  Hoover, AL  -  Done for Day, with Load
+09:31 AM  -  Troy, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ 143.0
- Total Rate:     $ 475.0
- Distance:         498.0 miles
- Net Rate/Hour:  $ 11.0
+ Business Net:   $ -200.0
+ Driver Pay:     $ 277.0
+ Total Net:      $ 77.0
+ Posted Rate:    $ 350.0
+ Distance:         404.0 miles
+ Net Rate/Hour:  $ 7.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #103 out of 104
+Viewing itinerary for Trip #64 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:17 PM  -  Selma, AL  -  Arrive at Origin & Load
-02:17 PM  -  Selma, AL  -  Drive Load to Destination
-03:37 PM  -  Hoover, AL  -  Done for Day, with Load
-09:36 AM  -  Fairburn, GA  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:37 AM  -  Salem, AL  -  Arrive at Origin & Load
+01:37 PM  -  Salem, AL  -  Drive Load to Destination
+03:52 PM  -  Hoover, AL  -  Done for Day, with Load
+09:31 AM  -  Troy, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ -271.0
- Total Rate:     $ 1.0
- Distance:         415.0 miles
- Net Rate/Hour:  $ -24.0
+ Business Net:   $ -200.0
+ Driver Pay:     $ 277.0
+ Total Net:      $ 77.0
+ Posted Rate:    $ 350.0
+ Distance:         404.0 miles
+ Net Rate/Hour:  $ 7.0
  ***** Central Time Zones *****
 
 *******************************************************************
-Viewing itinerary for Trip #104 out of 104
+Viewing itinerary for Trip #65 out of 65
 
 06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-07:57 AM  -  Madison, AL  -  Arrive at Destination & Unload
-08:57 AM  -  Madison, AL  -  Deadhead to Next Load
-12:17 PM  -  Selma, AL  -  Arrive at Origin & Load
-02:17 PM  -  Selma, AL  -  Drive Load to Destination
-03:37 PM  -  Hoover, AL  -  Done for Day, with Load
-10:00 AM  -  Decatur, GA  -  Next Day Delivery and Unload
+08:18 AM  -  Rome, GA  -  Arrive at Destination & Unload
+09:18 AM  -  Rome, GA  -  Deadhead to Next Load
+11:37 AM  -  Salem, AL  -  Arrive at Origin & Load
+01:37 PM  -  Salem, AL  -  Drive Load to Destination
+03:52 PM  -  Hoover, AL  -  Done for Day, with Load
+09:31 AM  -  Troy, AL  -  Next Day Delivery and Unload
 *******************************************************************
- Net Rate:       $ -287.0
- Total Rate:     $ 1.0
- Distance:         437.0 miles
- Net Rate/Hour:  $ -25.0
+ Business Net:   $ -250.0
+ Driver Pay:     $ 277.0
+ Total Net:      $ 27.0
+ Posted Rate:    $ 300.0
+ Distance:         404.0 miles
+ Net Rate/Hour:  $ 2.0
  ***** Central Time Zones *****
