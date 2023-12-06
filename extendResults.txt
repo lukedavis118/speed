@@ -2,94 +2,94 @@
 *******************************************************************
 Viewing itinerary for Trip #1 out of 5
 
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-08:53 AM  -  Atlanta, GA  -  Arrive at Destination & Unload
-09:53 AM  -  Atlanta, GA  -  Deadhead to Next Load
-10:48 AM  -  Milner, GA  -  Arrive at Origin & Load
-12:48 PM  -  Milner, GA  -  Drive Load to Destination
-03:54 PM  -  Hoover, AL  -  Done for Day, with Load
-08:51 AM  -  Huntsville, AL  -  Next Day Delivery and Unload
+08:00 AM  -  Hoover, AL  -  Drive Load to Destination
+10:43 AM  -  Douglasville, GA  -  Arrive at Destination & Unload
+11:43 AM  -  Douglasville, GA  -  Deadhead to Next Load
+02:21 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+04:21 PM  -  Birmingham, AL  -  Drive Load to Destination
+04:32 PM  -  Hoover, AL  -  Done for Day, with Load
+01:10 PM  -  Jackson, TN  -  Next Day Delivery and Unload
 *******************************************************************
- Business Net:   $ 193.0
- Driver Pay:     $ 391.0
- Total Net:      $ 584.0
- Posted Rate:    $ 775.0
- Total Distance:   335.0 miles
- Net Rate/Hour:  $ 55.0
+ Business Net:   $ 196.0
+ Driver Pay:     $ 569.0
+ Total Net:      $ 765.0
+ Posted Rate:    $ 925.0
+ Total Distance:   364.0 miles
+ Net Rate/Hour:  $ 63.0
  ***** Central Time Zones *****
 
 *******************************************************************
 Viewing itinerary for Trip #2 out of 5
 
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-08:53 AM  -  Atlanta, GA  -  Arrive at Destination & Unload
-09:53 AM  -  Atlanta, GA  -  Deadhead to Next Load
-12:47 PM  -  Pelham, AL  -  Arrive at Origin & Load
-02:47 PM  -  Pelham, AL  -  Drive Load to Destination
-02:57 PM  -  Hoover, AL  -  Done for Day, with Load
-09:53 AM  -  Atlanta, GA  -  Next Day Delivery and Unload
+08:00 AM  -  Hoover, AL  -  Drive Load to Destination
+10:43 AM  -  Douglasville, GA  -  Arrive at Destination & Unload
+11:43 AM  -  Douglasville, GA  -  Deadhead to Next Load
+02:21 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+04:21 PM  -  Birmingham, AL  -  Drive Load to Destination
+04:32 PM  -  Hoover, AL  -  Done for Day, with Load
+01:23 PM  -  Eatonton, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Business Net:   $ 156.0
- Driver Pay:     $ 434.0
- Total Net:      $ 590.0
- Posted Rate:    $ 725.0
- Total Distance:   339.0 miles
- Net Rate/Hour:  $ 51.0
+ Business Net:   $ 180.0
+ Driver Pay:     $ 428.0
+ Total Net:      $ 608.0
+ Posted Rate:    $ 925.0
+ Total Distance:   374.0 miles
+ Net Rate/Hour:  $ 61.0
  ***** Central Time Zones *****
 
 *******************************************************************
 Viewing itinerary for Trip #3 out of 5
 
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-08:53 AM  -  Atlanta, GA  -  Arrive at Destination & Unload
-09:53 AM  -  Atlanta, GA  -  Deadhead to Next Load
-12:42 PM  -  Birmingham, AL  -  Arrive at Origin & Load
-02:42 PM  -  Birmingham, AL  -  Drive Load to Destination
-02:52 PM  -  Hoover, AL  -  Done for Day, with Load
-11:07 AM  -  Cookeville, TN  -  Next Day Delivery and Unload
+08:00 AM  -  Hoover, AL  -  Drive Load to Destination
+10:43 AM  -  Douglasville, GA  -  Arrive at Destination & Unload
+11:43 AM  -  Douglasville, GA  -  Deadhead to Next Load
+02:21 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+04:21 PM  -  Birmingham, AL  -  Drive Load to Destination
+04:32 PM  -  Hoover, AL  -  Done for Day, with Load
+01:10 PM  -  Jackson, TN  -  Next Day Delivery and Unload
 *******************************************************************
- Business Net:   $ 142.0
- Driver Pay:     $ 391.0
- Total Net:      $ 533.0
- Posted Rate:    $ 800.0
- Total Distance:   405.0 miles
- Net Rate/Hour:  $ 48.0
+ Business Net:   $ 172.0
+ Driver Pay:     $ 489.0
+ Total Net:      $ 661.0
+ Posted Rate:    $ 900.0
+ Total Distance:   364.0 miles
+ Net Rate/Hour:  $ 61.0
  ***** Central Time Zones *****
 
 *******************************************************************
 Viewing itinerary for Trip #4 out of 5
 
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-08:53 AM  -  Atlanta, GA  -  Arrive at Destination & Unload
-09:53 AM  -  Atlanta, GA  -  Deadhead to Next Load
-12:47 PM  -  Pelham, AL  -  Arrive at Origin & Load
-02:47 PM  -  Pelham, AL  -  Drive Load to Destination
-02:57 PM  -  Hoover, AL  -  Done for Day, with Load
-09:53 AM  -  Atlanta, GA  -  Next Day Delivery and Unload
+08:00 AM  -  Hoover, AL  -  Drive Load to Destination
+10:43 AM  -  Douglasville, GA  -  Arrive at Destination & Unload
+11:43 AM  -  Douglasville, GA  -  Deadhead to Next Load
+02:21 PM  -  Birmingham, AL  -  Arrive at Origin & Load
+04:21 PM  -  Birmingham, AL  -  Drive Load to Destination
+04:32 PM  -  Hoover, AL  -  Done for Day, with Load
+01:23 PM  -  Eatonton, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Business Net:   $ 131.0
- Driver Pay:     $ 474.0
- Total Net:      $ 605.0
- Posted Rate:    $ 700.0
- Total Distance:   339.0 miles
- Net Rate/Hour:  $ 48.0
+ Business Net:   $ 155.0
+ Driver Pay:     $ 569.0
+ Total Net:      $ 724.0
+ Posted Rate:    $ 900.0
+ Total Distance:   374.0 miles
+ Net Rate/Hour:  $ 59.0
  ***** Central Time Zones *****
 
 *******************************************************************
 Viewing itinerary for Trip #5 out of 5
 
-06:00 AM  -  Hoover, AL  -  Drive Load to Destination
-08:53 AM  -  Atlanta, GA  -  Arrive at Destination & Unload
-09:53 AM  -  Atlanta, GA  -  Deadhead to Next Load
-10:26 AM  -  Grayson, GA  -  Arrive at Origin & Load
-12:26 PM  -  Grayson, GA  -  Drive Load to Destination
-03:50 PM  -  Hoover, AL  -  Done for Day, with Load
-10:49 AM  -  Nashville, TN  -  Next Day Delivery and Unload
+08:00 AM  -  Hoover, AL  -  Drive Load to Destination
+10:43 AM  -  Douglasville, GA  -  Arrive at Destination & Unload
+11:43 AM  -  Douglasville, GA  -  Deadhead to Next Load
+02:26 PM  -  Pelham, AL  -  Arrive at Origin & Load
+04:26 PM  -  Pelham, AL  -  Drive Load to Destination
+04:38 PM  -  Hoover, AL  -  Done for Day, with Load
+12:10 PM  -  Atlanta, GA  -  Next Day Delivery and Unload
 *******************************************************************
- Business Net:   $ 119.0
- Driver Pay:     $ 383.0
- Total Net:      $ 502.0
- Posted Rate:    $ 850.0
- Total Distance:   444.0 miles
- Net Rate/Hour:  $ 45.0
+ Business Net:   $ 97.0
+ Driver Pay:     $ 584.0
+ Total Net:      $ 681.0
+ Posted Rate:    $ 750.0
+ Total Distance:   316.0 miles
+ Net Rate/Hour:  $ 55.0
  ***** Central Time Zones *****
