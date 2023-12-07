@@ -33,11 +33,11 @@ def getToken(username,password):
     
     
     
-    # latestchromedriver = ChromeDriverManager().install()
-    # #set options
-    # chrome_options = uc.ChromeOptions()
+    latestchromedriver = ChromeDriverManager().install()
+    #set options
+    chrome_options = uc.ChromeOptions()
 
-    driver = uc.Chrome()#driver_executable_path=latestchromedriver, options=chrome_options)
+    driver = uc.Chrome(driver_executable_path=latestchromedriver, options=chrome_options)
 
     
 
@@ -676,13 +676,6 @@ def getTripStats2(client,extendedTripItinerary,inputs2):
 
 def getTripStatsFast(finalTrips,inputs):
     # loop through trip itineraries and get key values
-    params = {'coordinates': [],
-          'profile': 'driving-car',
-          'instructions': 'true',
-          'format_out': 'geojson',
-          'units': 'mi',
-          'radiuses':[5000]}
-    
     results = []
     cc = 0
     for trip in finalTrips:
@@ -701,11 +694,7 @@ def getTripStatsFast(finalTrips,inputs):
                 
         if not row['nextDayDelivery']:
             path.append(inputs['endCoords'][::-1])
-                    
-        params['coordinates'] = path
-        #time.sleep(1.5)
-        #route = client.directions(**params)['features'][0]['properties']
-        
+
         defineRoute = len(path)
         # Create your dictionary class
         class my_dictionary(dict):
@@ -719,50 +708,187 @@ def getTripStatsFast(finalTrips,inputs):
             self[key] = value
         
         if inputs['startWithLoad']:
-            # Main Function
-            segment1 = my_dictionary()
+            if defineRoute == 5:
+                if trip['itinerary'][1]['nextDayDelivery']==True:
+                    # Deliver load already on trailer and pick up another for delivery the next day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
              
-            segment1.add('distance', trip['itinerary'][0]['tripDistance'])
-            segment1.add('duration', segment1['distance']/inputs['avgSpeed']*3600) 
-            
-            segment2 = my_dictionary()
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
+                    
+                    segment3.add('distance', trip['itinerary'][1]['originalOriginDeadhead']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
              
-            segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
-            segment2.add('duration', segment2['distance']/inputs['avgSpeed']*3600)
-            
-            segment3 = my_dictionary()
+                    segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+                elif not trip['itinerary'][1]['nextDayDelivery']:
+                    # Deliver load already on trailer and pick up and deliver another load on the same day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
              
-            segment3.add('distance', trip['itinerary'][1]['originalOriginDeadhead']*1.15)
-            segment3.add('duration', segment3['distance']/inputs['avgSpeed']*3600)
-            
-            segment4 = my_dictionary()
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
              
-            segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
-            segment4.add('duration', segment4['distance']/inputs['avgSpeed']*3600)
-            
-            calcSegments = []
-            calcSegments.append(segment1)
-            calcSegments.append(segment2)
-            calcSegments.append(segment3)
-            calcSegments.append(segment4)
-            
-            calcSummary = my_dictionary()
+                    segment3.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
+                    
+                    segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+            elif defineRoute == 7:
+                if trip['itinerary'][2]['nextDayDelivery']==True:
+                    # Deliver load already on trailer, pick up and deliver another load, then pick up another for delivery the next day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
              
-            calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance'])
-            calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration'])
-                            
-            # calcSummary.add('distance', trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'] + trip['itinerary'][1]['destinationDeadhead'])
-            # calcSummary.add('duration', (trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'] + trip['itinerary'][1]['destinationDeadhead'])/inputs['avgSpeed']*3600)
-    
-            # Main Function
-            route = my_dictionary()
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
              
-            route.add('segments', calcSegments)
-            route.add('summary', calcSummary)
+                    segment3.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
+                    
+                    segment4.add('distance', trip['itinerary'][2]['originDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs['avgSpeed']*3600)
+
+                    segment5 = my_dictionary()
+             
+                    segment5.add('distance', trip['itinerary'][2]['originalOriginDeadhead']*1.15)
+                    segment5.add('duration', segment5['distance']/inputs['avgSpeed']*3600)
+
+                    segment6 = my_dictionary()
+             
+                    segment6.add('distance', trip['itinerary'][2]['destinationDeadhead']*1.15)
+                    segment6.add('duration', segment6['distance']/inputs['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    calcSegments.append(segment5)
+                    calcSegments.append(segment6)
+
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance']+segment6['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration']+segment6['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+                elif not trip['itinerary'][1]['nextDayDelivery']:
+                    # Deliver load already on trailer, pick up and deliver another load, then pick up and deliver another load on the same day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
+             
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
+             
+                    segment3.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
+                    
+                    segment4.add('distance', trip['itinerary'][2]['originDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs['avgSpeed']*3600)
+
+                    segment5 = my_dictionary()
+             
+                    segment5.add('distance', trip['itinerary'][2]['tripDistance']*1.15)
+                    segment5.add('duration', segment5['distance']/inputs['avgSpeed']*3600)
+
+                    segment6 = my_dictionary()
+             
+                    segment6.add('distance', trip['itinerary'][2]['destinationDeadhead']*1.15)
+                    segment6.add('duration', segment6['distance']/inputs['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    calcSegments.append(segment5)
+                    calcSegments.append(segment6)
+
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance']+segment6['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration']+segment6['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+ 
         else:
-            if defineRoute < 5:
+            if defineRoute == 4:
                 if trip['itinerary'][0]['nextDayDelivery']==True:
-                    # Main Function
+                    # Starting empty, deadhead to pickup load then return home for next day delivery.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originDeadhead'])
@@ -788,17 +914,13 @@ def getTripStatsFast(finalTrips,inputs):
                     
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration'])
-                    
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
+
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
                 else:
-                    # Main Function
+                    # Starting empty, deadhead to pickup load and deliver it the same day.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originDeadhead'])
@@ -825,19 +947,14 @@ def getTripStatsFast(finalTrips,inputs):
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration'])
                     
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
                 
-            elif defineRoute < 7:
-                # Main Function
+            elif defineRoute == 6:
                 if trip['itinerary'][1]['nextDayDelivery']==True:
-
+                    # Starting empty, deadhead to pickup load and deliver it the same day, then pick up another for delivery the next day.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originalOriginDeadhead']*1.15)
@@ -878,15 +995,12 @@ def getTripStatsFast(finalTrips,inputs):
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration'])
                     
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
                 else:
+                    # Starting empty, deadhead to pickup load and deliver it the same day, then pick up and deliver another the same day.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originalOriginDeadhead']*1.15)
@@ -928,15 +1042,69 @@ def getTripStatsFast(finalTrips,inputs):
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration'])
                     
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
+            elif defineRoute == 8:
+                # Starting empty, deadhead to pickup load and deliver it the same day, then pick up and deliver another the same day, then pick up another load for delivery the next day.
+                segment1 = my_dictionary()
+                    
+                segment1.add('distance', trip['itinerary'][0]['originalOriginDeadhead']*1.15)
+                segment1.add('duration', segment1['distance']/inputs['avgSpeed']*3600)
+                
+                segment2 = my_dictionary()
+                    
+                segment2.add('distance', trip['itinerary'][0]['tripDistance']*1.15)
+                segment2.add('duration', segment2['distance']/inputs['avgSpeed']*3600) 
+                
+                segment3 = my_dictionary()
+                    
+                segment3.add('distance', trip['itinerary'][1]['originDeadhead'])
+                segment3.add('duration', segment3['distance']/inputs['avgSpeed']*3600)
+                
+                segment4 = my_dictionary()
+                    
+                segment4.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                segment4.add('duration', segment4['distance']/inputs['avgSpeed']*3600) 
 
+                segment5 = my_dictionary()
+                    
+                segment5.add('distance', trip['itinerary'][2]['originDeadhead'])
+                segment5.add('duration', segment5['distance']/inputs['avgSpeed']*3600)
+                
+                segment6 = my_dictionary()
+                    
+                segment6.add('distance', trip['itinerary'][2]['originalOriginDeadhead'])
+                segment6.add('duration', segment6['distance']/inputs['avgSpeed']*3600)
+
+                segment7 = my_dictionary()
+                    
+                segment7.add('distance', trip['itinerary'][2]['destinationDeadhead']*1.15)
+                segment7.add('duration', segment7['distance']/inputs['avgSpeed']*3600)
+                
+            
+
+            
+                calcSegments = []
+                calcSegments.append(segment1)
+                calcSegments.append(segment2)
+                calcSegments.append(segment3)
+                calcSegments.append(segment4)
+                calcSegments.append(segment5)
+                calcSegments.append(segment6)
+                calcSegments.append(segment7)
+
+                
+                calcSummary = my_dictionary()
+                
+                calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance']+segment6['distance']+segment7['distance'])
+                calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration']+segment6['duration']+segment7['duration'])
+                
+                route = my_dictionary()
+                    
+                route.add('segments', calcSegments)
+                route.add('summary', calcSummary)
 
         
         tripDF = pd.DataFrame(trip['itinerary'])
@@ -950,25 +1118,6 @@ def getTripStatsFast(finalTrips,inputs):
         trip['startDayTime'] = inputs['date_start']
         trip['endDayTime'] = inputs['date_start'] + dt.timedelta(hours=trip['thisDayTime'])
         trip['timeSegments'] = route['segments']
-        
-        # update the start/end times with new ones
-        seg = [item['duration']/3600 for item in route['segments']]
-        # if not inputs['startWithLoad']: 
-
-        segcount = 0
-        if inputs['startWithLoad']:
-            
-            for ii in range(len(trip['itinerary'])):
-                 
-                path.append(row['originCoords'][::-1])
-                if row['nextDayDelivery']:
-                    path.append(inputs['endCoords'][::-1])
-                    path.append(row['destinationCoords'][::-1])
-                else:
-                    path.append(row['destinationCoords'][::-1])
-                
-        if not row['nextDayDelivery']:
-            path.append(inputs['endCoords'][::-1])
         
         trip['totalDistance'] = route['summary']['distance']
         trip['calcDistance'] = trip['totalDistance'] #(trip['totalDistance'] - route['segments'][1]['distance']) if inputs['startWithLoad'] else (trip['totalDistance'])
@@ -984,22 +1133,13 @@ def getTripStatsFast(finalTrips,inputs):
         trip['driverPay'] = inputs['driverPayPerHour']*trip['calcTime']
         trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost'] - trip['driverPay']
         trip['netRatePerHour'] = (trip['netRate']+trip['driverPay'])/trip['calcTime']
-        
-        # trip['itinerary'] = tripDF
-        
+                
         results.append(trip)
         
     return results
 
 def getTripStatsFast2(extendedTripItinerary,inputs2):
     # loop through trip itineraries and get key values
-    params = {'coordinates': [],
-          'profile': 'driving-car',
-          'instructions': 'true',
-          'format_out': 'geojson',
-          'units': 'mi',
-          'radiuses':[5000]}
-    
     results = []
     cc = 0
     for trip in extendedTripItinerary:
@@ -1018,11 +1158,7 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
                 
         if not row['nextDayDelivery']:
             path.append(inputs2['endCoords'][::-1])
-                    
-        params['coordinates'] = path
-        #time.sleep(1.5)
-        #route = client.directions(**params)['features'][0]['properties']
-        
+
         defineRoute = len(path)
         # Create your dictionary class
         class my_dictionary(dict):
@@ -1036,50 +1172,187 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
             self[key] = value
         
         if inputs2['startWithLoad']:
-            # Main Function
-            segment1 = my_dictionary()
+            if defineRoute == 5:
+                if trip['itinerary'][1]['nextDayDelivery']==True:
+                    # Deliver load already on trailer and pick up another for delivery the next day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs2['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
              
-            segment1.add('distance', trip['itinerary'][0]['tripDistance'])
-            segment1.add('duration', segment1['distance']/inputs2['avgSpeed']*3600) 
-            
-            segment2 = my_dictionary()
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs2['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
+                    
+                    segment3.add('distance', trip['itinerary'][1]['originalOriginDeadhead']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs2['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
              
-            segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
-            segment2.add('duration', segment2['distance']/inputs2['avgSpeed']*3600)
-            
-            segment3 = my_dictionary()
+                    segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+                elif not trip['itinerary'][1]['nextDayDelivery']:
+                    # Deliver load already on trailer and pick up and deliver another load on the same day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs2['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
              
-            segment3.add('distance', trip['itinerary'][1]['originalOriginDeadhead']*1.15)
-            segment3.add('duration', segment3['distance']/inputs2['avgSpeed']*3600)
-            
-            segment4 = my_dictionary()
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs2['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
              
-            segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
-            segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600)
-            
-            calcSegments = []
-            calcSegments.append(segment1)
-            calcSegments.append(segment2)
-            calcSegments.append(segment3)
-            calcSegments.append(segment4)
-            
-            calcSummary = my_dictionary()
+                    segment3.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs2['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
+                    
+                    segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+            elif defineRoute == 7:
+                if trip['itinerary'][2]['nextDayDelivery']==True:
+                    # Deliver load already on trailer, pick up and deliver another load, then pick up another for delivery the next day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs2['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
              
-            calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance'])
-            calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration'])
-                            
-            # calcSummary.add('distance', trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'] + trip['itinerary'][1]['destinationDeadhead'])
-            # calcSummary.add('duration', (trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'] + trip['itinerary'][1]['destinationDeadhead'])/inputs['avgSpeed']*3600)
-    
-            # Main Function
-            route = my_dictionary()
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs2['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
              
-            route.add('segments', calcSegments)
-            route.add('summary', calcSummary)
+                    segment3.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs2['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
+                    
+                    segment4.add('distance', trip['itinerary'][2]['originDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600)
+
+                    segment5 = my_dictionary()
+             
+                    segment5.add('distance', trip['itinerary'][2]['originalOriginDeadhead']*1.15)
+                    segment5.add('duration', segment5['distance']/inputs2['avgSpeed']*3600)
+
+                    segment6 = my_dictionary()
+             
+                    segment6.add('distance', trip['itinerary'][2]['destinationDeadhead']*1.15)
+                    segment6.add('duration', segment6['distance']/inputs2['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    calcSegments.append(segment5)
+                    calcSegments.append(segment6)
+
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance']+segment6['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration']+segment6['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+                elif not trip['itinerary'][1]['nextDayDelivery']:
+                    # Deliver load already on trailer, pick up and deliver another load, then pick up and deliver another load on the same day.
+                    segment1 = my_dictionary()
+                    
+                    segment1.add('distance', trip['itinerary'][0]['tripDistance'])
+                    segment1.add('duration', segment1['distance']/inputs2['avgSpeed']*3600) 
+
+                    segment2 = my_dictionary()
+             
+                    segment2.add('distance', trip['itinerary'][1]['originDeadhead'])
+                    segment2.add('duration', segment2['distance']/inputs2['avgSpeed']*3600)
+
+                    segment3 = my_dictionary()
+             
+                    segment3.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                    segment3.add('duration', segment3['distance']/inputs2['avgSpeed']*3600)
+
+                    segment4 = my_dictionary()
+                    
+                    segment4.add('distance', trip['itinerary'][2]['originDeadhead']*1.15)
+                    segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600)
+
+                    segment5 = my_dictionary()
+             
+                    segment5.add('distance', trip['itinerary'][2]['tripDistance']*1.15)
+                    segment5.add('duration', segment5['distance']/inputs2['avgSpeed']*3600)
+
+                    segment6 = my_dictionary()
+             
+                    segment6.add('distance', trip['itinerary'][2]['destinationDeadhead']*1.15)
+                    segment6.add('duration', segment6['distance']/inputs2['avgSpeed']*3600)
+
+                    calcSegments = []
+                    calcSegments.append(segment1)
+                    calcSegments.append(segment2)
+                    calcSegments.append(segment3)
+                    calcSegments.append(segment4)
+                    calcSegments.append(segment5)
+                    calcSegments.append(segment6)
+
+                    
+                    calcSummary = my_dictionary()
+                    
+                    calcSummary.add('distance', segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance']+segment6['distance'])
+                    calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration']+segment6['duration'])
+                    
+                    route = my_dictionary()
+                    
+                    route.add('segments', calcSegments)
+                    route.add('summary', calcSummary)
+ 
         else:
-            if defineRoute < 5:
-                if path[0] == path[2]:
-                    # Main Function
+            if defineRoute == 4:
+                if trip['itinerary'][0]['nextDayDelivery']==True:
+                    # Starting empty, deadhead to pickup load then return home for next day delivery.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originDeadhead'])
@@ -1105,17 +1378,13 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
                     
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration'])
-                    
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
+
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
                 else:
-                    # Main Function
+                    # Starting empty, deadhead to pickup load and deliver it the same day.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originDeadhead'])
@@ -1142,19 +1411,14 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration'])
                     
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['destinationDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
                 
-            elif defineRoute < 7:
-                # Main Function
-                if path[0] == path[4]:
-
+            elif defineRoute == 6:
+                if trip['itinerary'][1]['nextDayDelivery']==True:
+                    # Starting empty, deadhead to pickup load and deliver it the same day, then pick up another for delivery the next day.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originalOriginDeadhead']*1.15)
@@ -1172,13 +1436,15 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
                     
                     segment4 = my_dictionary()
                      
-                    segment4.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
+                    segment4.add('distance', trip['itinerary'][1]['originalOriginDeadhead']*1.15)
                     segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600)
                     
                     segment5 = my_dictionary()
                      
-                    segment5.add('distance', trip['itinerary'][1]['originalOriginDeadhead']*1.15)
+                    segment5.add('distance', trip['itinerary'][1]['destinationDeadhead']*1.15)
                     segment5.add('duration', segment5['distance']/inputs2['avgSpeed']*3600)
+                    
+
                     
                     calcSegments = []
                     calcSegments.append(segment1)
@@ -1193,15 +1459,12 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration'])
                     
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
                 else:
+                    # Starting empty, deadhead to pickup load and deliver it the same day, then pick up and deliver another the same day.
                     segment1 = my_dictionary()
                      
                     segment1.add('distance', trip['itinerary'][0]['originalOriginDeadhead']*1.15)
@@ -1243,17 +1506,69 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
                     calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance'])
                     calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration'])
                     
-                    # calcSummary.add('distance', trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])
-                    # calcSummary.add('duration', (trip['itinerary'][0]['originalOriginDeadhead'] + trip['itinerary'][0]['tripDistance'] + trip['itinerary'][1]['originDeadhead'] + trip['itinerary'][1]['destinationDeadhead'] + trip['itinerary'][1]['originalOriginDeadhead'])/inputs['avgSpeed']*3600)
-            
-                    # Main Function
                     route = my_dictionary()
                      
                     route.add('segments', calcSegments)
                     route.add('summary', calcSummary)
+            elif defineRoute == 8:
+                # Starting empty, deadhead to pickup load and deliver it the same day, then pick up and deliver another the same day, then pick up another load for delivery the next day.
+                segment1 = my_dictionary()
+                    
+                segment1.add('distance', trip['itinerary'][0]['originalOriginDeadhead']*1.15)
+                segment1.add('duration', segment1['distance']/inputs2['avgSpeed']*3600)
+                
+                segment2 = my_dictionary()
+                    
+                segment2.add('distance', trip['itinerary'][0]['tripDistance']*1.15)
+                segment2.add('duration', segment2['distance']/inputs2['avgSpeed']*3600) 
+                
+                segment3 = my_dictionary()
+                    
+                segment3.add('distance', trip['itinerary'][1]['originDeadhead'])
+                segment3.add('duration', segment3['distance']/inputs2['avgSpeed']*3600)
+                
+                segment4 = my_dictionary()
+                    
+                segment4.add('distance', trip['itinerary'][1]['tripDistance']*1.15)
+                segment4.add('duration', segment4['distance']/inputs2['avgSpeed']*3600) 
 
+                segment5 = my_dictionary()
+                    
+                segment5.add('distance', trip['itinerary'][2]['originDeadhead'])
+                segment5.add('duration', segment5['distance']/inputs2['avgSpeed']*3600)
+                
+                segment6 = my_dictionary()
+                    
+                segment6.add('distance', trip['itinerary'][2]['originalOriginDeadhead'])
+                segment6.add('duration', segment6['distance']/inputs2['avgSpeed']*3600)
 
-        
+                segment7 = my_dictionary()
+                    
+                segment7.add('distance', trip['itinerary'][2]['destinationDeadhead']*1.15)
+                segment7.add('duration', segment7['distance']/inputs2['avgSpeed']*3600)
+                
+            
+
+            
+                calcSegments = []
+                calcSegments.append(segment1)
+                calcSegments.append(segment2)
+                calcSegments.append(segment3)
+                calcSegments.append(segment4)
+                calcSegments.append(segment5)
+                calcSegments.append(segment6)
+                calcSegments.append(segment7)
+
+                
+                calcSummary = my_dictionary()
+                
+                calcSummary.add('distance', segment1['distance'] + segment2['distance']+segment3['distance']+segment4['distance']+segment5['distance']+segment6['distance']+segment7['distance'])
+                calcSummary.add('duration', segment1['duration'] + segment2['duration']+segment3['duration']+segment4['duration']+segment5['duration']+segment6['duration']+segment7['duration'])
+                
+                route = my_dictionary()
+                    
+                route.add('segments', calcSegments)
+                route.add('summary', calcSummary)
 
         
         tripDF = pd.DataFrame(trip['itinerary'])
@@ -1267,25 +1582,6 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
         trip['startDayTime'] = inputs2['date_start']
         trip['endDayTime'] = inputs2['date_start'] + dt.timedelta(hours=trip['thisDayTime'])
         trip['timeSegments'] = route['segments']
-        
-        # update the start/end times with new ones
-        seg = [item['duration']/3600 for item in route['segments']]
-        # if not inputs['startWithLoad']: 
-
-        segcount = 0
-        if inputs2['startWithLoad']:
-            
-            for ii in range(len(trip['itinerary'])):
-                 
-                path.append(row['originCoords'][::-1])
-                if row['nextDayDelivery']:
-                    path.append(inputs2['endCoords'][::-1])
-                    path.append(row['destinationCoords'][::-1])
-                else:
-                    path.append(row['destinationCoords'][::-1])
-                
-        if not row['nextDayDelivery']:
-            path.append(inputs2['endCoords'][::-1])
         
         trip['totalDistance'] = route['summary']['distance']
         trip['calcDistance'] = trip['totalDistance'] #(trip['totalDistance'] - route['segments'][1]['distance']) if inputs['startWithLoad'] else (trip['totalDistance'])
@@ -1301,9 +1597,7 @@ def getTripStatsFast2(extendedTripItinerary,inputs2):
         trip['driverPay'] = inputs2['driverPayPerHour']*trip['calcTime']
         trip['netRate'] = trip['totalRate'] - trip['maintenanceCost'] - trip['gasCost'] - trip['driverPay']
         trip['netRatePerHour'] = (trip['netRate']+trip['driverPay'])/trip['calcTime']
-        
-        # trip['itinerary'] = tripDF
-        
+                
         results.append(trip)
         
     return results
